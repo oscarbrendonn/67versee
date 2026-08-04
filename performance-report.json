@@ -1,0 +1,1237 @@
+{
+  "budget": {
+    "initialJsRawBytes": 900000,
+    "initialJsGzipBytes": 240000,
+    "maxAsyncJsRawBytes": 40000,
+    "requiredDeferredSources": [
+      "src/core/performance-diagnostics.js",
+      "src/systems/cosmetics.js",
+      "src/systems/emotes.js",
+      "src/systems/settings.js"
+    ],
+    "requiredDeferredSourceFragments": [
+      "party-session"
+    ]
+  },
+  "generatedAt": "2026-08-04T21:57:16.523Z",
+  "initial": {
+    "files": [
+      {
+        "source": "_BufferGeometryUtils-NQeNCw5n.js",
+        "file": "assets/BufferGeometryUtils-NQeNCw5n.js",
+        "rawBytes": 4773,
+        "gzipBytes": 1406,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_GLTFLoader-4_ku3tMT.js",
+        "file": "assets/GLTFLoader-4_ku3tMT.js",
+        "rawBytes": 43367,
+        "gzipBytes": 12836,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_chase-camera-Bw43WKz9.js",
+        "file": "assets/chase-camera-Bw43WKz9.js",
+        "rawBytes": 5662,
+        "gzipBytes": 2299,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_player-Dow42Xa0.js",
+        "file": "assets/player-Dow42Xa0.js",
+        "rawBytes": 2501,
+        "gzipBytes": 983,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_preload-helper-C_S_EEzL.js",
+        "file": "assets/preload-helper-C_S_EEzL.js",
+        "rawBytes": 1205,
+        "gzipBytes": 685,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_registry-CJLgdOlc.js",
+        "file": "assets/registry-CJLgdOlc.js",
+        "rawBytes": 518,
+        "gzipBytes": 308,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_sky-CLzF4ZUM.js",
+        "file": "assets/sky-CLzF4ZUM.js",
+        "rawBytes": 1555,
+        "gzipBytes": 906,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_three.core-Co-9pgkG.js",
+        "file": "assets/three.core-Co-9pgkG.js",
+        "rawBytes": 373737,
+        "gzipBytes": 98903,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_three.module-CEhnhZJo.js",
+        "file": "assets/three.module-CEhnhZJo.js",
+        "rawBytes": 356516,
+        "gzipBytes": 86912,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "_world-items-BHmkTOy4.js",
+        "file": "assets/world-items-BHmkTOy4.js",
+        "rawBytes": 1416,
+        "gzipBytes": 735,
+        "initial": true,
+        "dynamic": false
+      },
+      {
+        "source": "index.html",
+        "file": "assets/index-Cw_u-WOB.js",
+        "rawBytes": 93351,
+        "gzipBytes": 32964,
+        "initial": true,
+        "dynamic": false
+      }
+    ],
+    "rawBytes": 884601,
+    "gzipBytes": 238937
+  },
+  "asyncEntries": [
+    {
+      "source": "src/world/city-districts.js",
+      "file": "assets/city-districts-D1WIhe1Q.js",
+      "rawBytes": 39218,
+      "gzipBytes": 13939,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/skate-race.js",
+      "file": "assets/skate-race-CcMWKRWs.js",
+      "rawBytes": 37523,
+      "gzipBytes": 14211,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/obstacle.js",
+      "file": "assets/obstacle-D4M3jKW6.js",
+      "rawBytes": 36954,
+      "gzipBytes": 14049,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/editor.js",
+      "file": "assets/editor-B3VjBDTA.js",
+      "rawBytes": 34925,
+      "gzipBytes": 11872,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/discovery.js",
+      "file": "assets/discovery-BZrXZEz1.js",
+      "rawBytes": 31998,
+      "gzipBytes": 11179,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/balloon.js",
+      "file": "assets/balloon-nl7IjiHH.js",
+      "rawBytes": 30468,
+      "gzipBytes": 11605,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/GTAOPass.js",
+      "file": "assets/GTAOPass-BfTa-zo8.js",
+      "rawBytes": 30102,
+      "gzipBytes": 7719,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/tag.js",
+      "file": "assets/tag-BBj0RGRF.js",
+      "rawBytes": 25164,
+      "gzipBytes": 9734,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/squid67.js",
+      "file": "assets/squid67-BHL6UuHF.js",
+      "rawBytes": 17273,
+      "gzipBytes": 6786,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/show67.js",
+      "file": "assets/show67-Df1dAbt8.js",
+      "rawBytes": 16112,
+      "gzipBytes": 6626,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/shop.js",
+      "file": "assets/shop-Deok_cgA.js",
+      "rawBytes": 14648,
+      "gzipBytes": 5457,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/social.js",
+      "file": "assets/social-CZotejOF.js",
+      "rawBytes": 11616,
+      "gzipBytes": 4175,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/chat.js",
+      "file": "assets/chat-CLwVHvy4.js",
+      "rawBytes": 10288,
+      "gzipBytes": 4095,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/settings.js",
+      "file": "assets/settings-BJotERwZ.js",
+      "rawBytes": 8166,
+      "gzipBytes": 3074,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/performance-diagnostics.js",
+      "file": "assets/performance-diagnostics-ah28R-5I.js",
+      "rawBytes": 8061,
+      "gzipBytes": 3145,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/season.js",
+      "file": "assets/season-DBoD-C0e.js",
+      "rawBytes": 7929,
+      "gzipBytes": 3407,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/market.js",
+      "file": "assets/market-D4avXsv3.js",
+      "rawBytes": 7207,
+      "gzipBytes": 2887,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/quests.js",
+      "file": "assets/quests-Dwip5zIW.js",
+      "rawBytes": 7029,
+      "gzipBytes": 2937,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/skyway-round.js",
+      "file": "assets/skyway-round-DYlkHo0-.js",
+      "rawBytes": 6745,
+      "gzipBytes": 2481,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/collection.js",
+      "file": "assets/collection-D5mhoWJn.js",
+      "rawBytes": 6515,
+      "gzipBytes": 2883,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/audio.js",
+      "file": "assets/audio-G6jzBwQw.js",
+      "rawBytes": 5625,
+      "gzipBytes": 2199,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/emotes.js",
+      "file": "assets/emotes-CuUak9Lk.js",
+      "rawBytes": 5123,
+      "gzipBytes": 2360,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
+      "file": "assets/EffectComposer-321uuzXk.js",
+      "rawBytes": 4672,
+      "gzipBytes": 1416,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/harita.js",
+      "file": "assets/harita-BhxocWjw.js",
+      "rawBytes": 4025,
+      "gzipBytes": 1760,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
+      "file": "assets/OutputPass-Diwag6Ox.js",
+      "rawBytes": 3066,
+      "gzipBytes": 1008,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/stadium.js",
+      "file": "assets/stadium-BjcLC1ef.js",
+      "rawBytes": 2930,
+      "gzipBytes": 1548,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/friendsies.js",
+      "file": "assets/friendsies-CWLXXNIq.js",
+      "rawBytes": 1937,
+      "gzipBytes": 1083,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/hub-qa.js",
+      "file": "assets/hub-qa-D6nezCcE.js",
+      "rawBytes": 1442,
+      "gzipBytes": 722,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/RenderPass.js",
+      "file": "assets/RenderPass-fjpxL1o7.js",
+      "rawBytes": 1096,
+      "gzipBytes": 423,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/cosmetics.js",
+      "file": "assets/cosmetics-CkqhbgjW.js",
+      "rawBytes": 233,
+      "gzipBytes": 172,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/friendsie-bot.js",
+      "file": "assets/friendsie-bot-CRMQ1v7I.js",
+      "rawBytes": 224,
+      "gzipBytes": 174,
+      "initial": false,
+      "dynamic": true
+    }
+  ],
+  "deferredChunks": [
+    {
+      "source": "src/world/city-districts.js",
+      "file": "assets/city-districts-D1WIhe1Q.js",
+      "rawBytes": 39218,
+      "gzipBytes": 13939,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/skate-race.js",
+      "file": "assets/skate-race-CcMWKRWs.js",
+      "rawBytes": 37523,
+      "gzipBytes": 14211,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/obstacle.js",
+      "file": "assets/obstacle-D4M3jKW6.js",
+      "rawBytes": 36954,
+      "gzipBytes": 14049,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/editor.js",
+      "file": "assets/editor-B3VjBDTA.js",
+      "rawBytes": 34925,
+      "gzipBytes": 11872,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/discovery.js",
+      "file": "assets/discovery-BZrXZEz1.js",
+      "rawBytes": 31998,
+      "gzipBytes": 11179,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/balloon.js",
+      "file": "assets/balloon-nl7IjiHH.js",
+      "rawBytes": 30468,
+      "gzipBytes": 11605,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/GTAOPass.js",
+      "file": "assets/GTAOPass-BfTa-zo8.js",
+      "rawBytes": 30102,
+      "gzipBytes": 7719,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/tag.js",
+      "file": "assets/tag-BBj0RGRF.js",
+      "rawBytes": 25164,
+      "gzipBytes": 9734,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_city-funfair-BBWvqKzC.js",
+      "file": "assets/city-funfair-BBWvqKzC.js",
+      "rawBytes": 18976,
+      "gzipBytes": 7682,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/games/squid67.js",
+      "file": "assets/squid67-BHL6UuHF.js",
+      "rawBytes": 17273,
+      "gzipBytes": 6786,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/show67.js",
+      "file": "assets/show67-Df1dAbt8.js",
+      "rawBytes": 16112,
+      "gzipBytes": 6626,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/shop.js",
+      "file": "assets/shop-Deok_cgA.js",
+      "rawBytes": 14648,
+      "gzipBytes": 5457,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/social.js",
+      "file": "assets/social-CZotejOF.js",
+      "rawBytes": 11616,
+      "gzipBytes": 4175,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_city-plan-oge-BeGUXmhr.js",
+      "file": "assets/city-plan-oge-BeGUXmhr.js",
+      "rawBytes": 11478,
+      "gzipBytes": 4333,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/chat.js",
+      "file": "assets/chat-CLwVHvy4.js",
+      "rawBytes": 10288,
+      "gzipBytes": 4095,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_presentation-DbUd8lQT.js",
+      "file": "assets/presentation-DbUd8lQT.js",
+      "rawBytes": 10161,
+      "gzipBytes": 4079,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_cosmetics-Bn_HT9WS.js",
+      "file": "assets/cosmetics-Bn_HT9WS.js",
+      "rawBytes": 9644,
+      "gzipBytes": 3810,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/settings.js",
+      "file": "assets/settings-BJotERwZ.js",
+      "rawBytes": 8166,
+      "gzipBytes": 3074,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/performance-diagnostics.js",
+      "file": "assets/performance-diagnostics-ah28R-5I.js",
+      "rawBytes": 8061,
+      "gzipBytes": 3145,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/season.js",
+      "file": "assets/season-DBoD-C0e.js",
+      "rawBytes": 7929,
+      "gzipBytes": 3407,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_skyway-multiplayer-dLLkg8He.js",
+      "file": "assets/skyway-multiplayer-dLLkg8He.js",
+      "rawBytes": 7441,
+      "gzipBytes": 2945,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/market.js",
+      "file": "assets/market-D4avXsv3.js",
+      "rawBytes": 7207,
+      "gzipBytes": 2887,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/quests.js",
+      "file": "assets/quests-Dwip5zIW.js",
+      "rawBytes": 7029,
+      "gzipBytes": 2937,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_RoundedBoxGeometry-D59L9t4-.js",
+      "file": "assets/RoundedBoxGeometry-D59L9t4-.js",
+      "rawBytes": 6909,
+      "gzipBytes": 2737,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/core/skyway-round.js",
+      "file": "assets/skyway-round-DYlkHo0-.js",
+      "rawBytes": 6745,
+      "gzipBytes": 2481,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_city-plan-yapi-BE20XLZB.js",
+      "file": "assets/city-plan-yapi-BE20XLZB.js",
+      "rawBytes": 6686,
+      "gzipBytes": 2652,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/collection.js",
+      "file": "assets/collection-D5mhoWJn.js",
+      "rawBytes": 6515,
+      "gzipBytes": 2883,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/audio.js",
+      "file": "assets/audio-G6jzBwQw.js",
+      "rawBytes": 5625,
+      "gzipBytes": 2199,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_party-session-BNjgA_WJ.js",
+      "file": "assets/party-session-BNjgA_WJ.js",
+      "rawBytes": 5208,
+      "gzipBytes": 1905,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/emotes.js",
+      "file": "assets/emotes-CuUak9Lk.js",
+      "rawBytes": 5123,
+      "gzipBytes": 2360,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_level-widgets-B-YTtERP.js",
+      "file": "assets/level-widgets-B-YTtERP.js",
+      "rawBytes": 5035,
+      "gzipBytes": 1716,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
+      "file": "assets/EffectComposer-321uuzXk.js",
+      "rawBytes": 4672,
+      "gzipBytes": 1416,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_skyway-course-simulation-Dcjv92Bo.js",
+      "file": "assets/skyway-course-simulation-Dcjv92Bo.js",
+      "rawBytes": 4521,
+      "gzipBytes": 1943,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/harita.js",
+      "file": "assets/harita-BhxocWjw.js",
+      "rawBytes": 4025,
+      "gzipBytes": 1760,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_sekil-BJ0-I3in.js",
+      "file": "assets/sekil-BJ0-I3in.js",
+      "rawBytes": 3114,
+      "gzipBytes": 1465,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
+      "file": "assets/OutputPass-Diwag6Ox.js",
+      "rawBytes": 3066,
+      "gzipBytes": 1008,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/stadium.js",
+      "file": "assets/stadium-BjcLC1ef.js",
+      "rawBytes": 2930,
+      "gzipBytes": 1548,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_local-moderation-DB4L9d1N.js",
+      "file": "assets/local-moderation-DB4L9d1N.js",
+      "rawBytes": 2411,
+      "gzipBytes": 1078,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_friendsie-bot-NlaYGLZv.js",
+      "file": "assets/friendsie-bot-NlaYGLZv.js",
+      "rawBytes": 2066,
+      "gzipBytes": 1131,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/world/friendsies.js",
+      "file": "assets/friendsies-CWLXXNIq.js",
+      "rawBytes": 1937,
+      "gzipBytes": 1083,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_local-save-schema-C0-juTIS.js",
+      "file": "assets/local-save-schema-C0-juTIS.js",
+      "rawBytes": 1480,
+      "gzipBytes": 684,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/core/hub-qa.js",
+      "file": "assets/hub-qa-D6nezCcE.js",
+      "rawBytes": 1442,
+      "gzipBytes": 722,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/RenderPass.js",
+      "file": "assets/RenderPass-fjpxL1o7.js",
+      "rawBytes": 1096,
+      "gzipBytes": 423,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "_bots-8hmv-LPb.js",
+      "file": "assets/bots-8hmv-LPb.js",
+      "rawBytes": 805,
+      "gzipBytes": 518,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_game-result-D6Ptxhig.js",
+      "file": "assets/game-result-D6Ptxhig.js",
+      "rawBytes": 741,
+      "gzipBytes": 382,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_Pass-B4opjnnW.js",
+      "file": "assets/Pass-B4opjnnW.js",
+      "rawBytes": 691,
+      "gzipBytes": 392,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_CopyShader-CHGAmNbz.js",
+      "file": "assets/CopyShader-CHGAmNbz.js",
+      "rawBytes": 441,
+      "gzipBytes": 277,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "src/systems/cosmetics.js",
+      "file": "assets/cosmetics-CkqhbgjW.js",
+      "rawBytes": 233,
+      "gzipBytes": 172,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/friendsie-bot.js",
+      "file": "assets/friendsie-bot-CRMQ1v7I.js",
+      "rawBytes": 224,
+      "gzipBytes": 174,
+      "initial": false,
+      "dynamic": true
+    }
+  ],
+  "allJs": [
+    {
+      "source": "_BufferGeometryUtils-NQeNCw5n.js",
+      "file": "assets/BufferGeometryUtils-NQeNCw5n.js",
+      "rawBytes": 4773,
+      "gzipBytes": 1406,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_CopyShader-CHGAmNbz.js",
+      "file": "assets/CopyShader-CHGAmNbz.js",
+      "rawBytes": 441,
+      "gzipBytes": 277,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_GLTFLoader-4_ku3tMT.js",
+      "file": "assets/GLTFLoader-4_ku3tMT.js",
+      "rawBytes": 43367,
+      "gzipBytes": 12836,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_Pass-B4opjnnW.js",
+      "file": "assets/Pass-B4opjnnW.js",
+      "rawBytes": 691,
+      "gzipBytes": 392,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_RoundedBoxGeometry-D59L9t4-.js",
+      "file": "assets/RoundedBoxGeometry-D59L9t4-.js",
+      "rawBytes": 6909,
+      "gzipBytes": 2737,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_bots-8hmv-LPb.js",
+      "file": "assets/bots-8hmv-LPb.js",
+      "rawBytes": 805,
+      "gzipBytes": 518,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_chase-camera-Bw43WKz9.js",
+      "file": "assets/chase-camera-Bw43WKz9.js",
+      "rawBytes": 5662,
+      "gzipBytes": 2299,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_city-funfair-BBWvqKzC.js",
+      "file": "assets/city-funfair-BBWvqKzC.js",
+      "rawBytes": 18976,
+      "gzipBytes": 7682,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_city-plan-oge-BeGUXmhr.js",
+      "file": "assets/city-plan-oge-BeGUXmhr.js",
+      "rawBytes": 11478,
+      "gzipBytes": 4333,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_city-plan-yapi-BE20XLZB.js",
+      "file": "assets/city-plan-yapi-BE20XLZB.js",
+      "rawBytes": 6686,
+      "gzipBytes": 2652,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_cosmetics-Bn_HT9WS.js",
+      "file": "assets/cosmetics-Bn_HT9WS.js",
+      "rawBytes": 9644,
+      "gzipBytes": 3810,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_friendsie-bot-NlaYGLZv.js",
+      "file": "assets/friendsie-bot-NlaYGLZv.js",
+      "rawBytes": 2066,
+      "gzipBytes": 1131,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_game-result-D6Ptxhig.js",
+      "file": "assets/game-result-D6Ptxhig.js",
+      "rawBytes": 741,
+      "gzipBytes": 382,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_level-widgets-B-YTtERP.js",
+      "file": "assets/level-widgets-B-YTtERP.js",
+      "rawBytes": 5035,
+      "gzipBytes": 1716,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_local-moderation-DB4L9d1N.js",
+      "file": "assets/local-moderation-DB4L9d1N.js",
+      "rawBytes": 2411,
+      "gzipBytes": 1078,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_local-save-schema-C0-juTIS.js",
+      "file": "assets/local-save-schema-C0-juTIS.js",
+      "rawBytes": 1480,
+      "gzipBytes": 684,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_party-session-BNjgA_WJ.js",
+      "file": "assets/party-session-BNjgA_WJ.js",
+      "rawBytes": 5208,
+      "gzipBytes": 1905,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_player-Dow42Xa0.js",
+      "file": "assets/player-Dow42Xa0.js",
+      "rawBytes": 2501,
+      "gzipBytes": 983,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_preload-helper-C_S_EEzL.js",
+      "file": "assets/preload-helper-C_S_EEzL.js",
+      "rawBytes": 1205,
+      "gzipBytes": 685,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_presentation-DbUd8lQT.js",
+      "file": "assets/presentation-DbUd8lQT.js",
+      "rawBytes": 10161,
+      "gzipBytes": 4079,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_registry-CJLgdOlc.js",
+      "file": "assets/registry-CJLgdOlc.js",
+      "rawBytes": 518,
+      "gzipBytes": 308,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_sekil-BJ0-I3in.js",
+      "file": "assets/sekil-BJ0-I3in.js",
+      "rawBytes": 3114,
+      "gzipBytes": 1465,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_sky-CLzF4ZUM.js",
+      "file": "assets/sky-CLzF4ZUM.js",
+      "rawBytes": 1555,
+      "gzipBytes": 906,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_skyway-course-simulation-Dcjv92Bo.js",
+      "file": "assets/skyway-course-simulation-Dcjv92Bo.js",
+      "rawBytes": 4521,
+      "gzipBytes": 1943,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_skyway-multiplayer-dLLkg8He.js",
+      "file": "assets/skyway-multiplayer-dLLkg8He.js",
+      "rawBytes": 7441,
+      "gzipBytes": 2945,
+      "initial": false,
+      "dynamic": false
+    },
+    {
+      "source": "_three.core-Co-9pgkG.js",
+      "file": "assets/three.core-Co-9pgkG.js",
+      "rawBytes": 373737,
+      "gzipBytes": 98903,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_three.module-CEhnhZJo.js",
+      "file": "assets/three.module-CEhnhZJo.js",
+      "rawBytes": 356516,
+      "gzipBytes": 86912,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "_world-items-BHmkTOy4.js",
+      "file": "assets/world-items-BHmkTOy4.js",
+      "rawBytes": 1416,
+      "gzipBytes": 735,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "index.html",
+      "file": "assets/index-Cw_u-WOB.js",
+      "rawBytes": 93351,
+      "gzipBytes": 32964,
+      "initial": true,
+      "dynamic": false
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
+      "file": "assets/EffectComposer-321uuzXk.js",
+      "rawBytes": 4672,
+      "gzipBytes": 1416,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/GTAOPass.js",
+      "file": "assets/GTAOPass-BfTa-zo8.js",
+      "rawBytes": 30102,
+      "gzipBytes": 7719,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
+      "file": "assets/OutputPass-Diwag6Ox.js",
+      "rawBytes": 3066,
+      "gzipBytes": 1008,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "node_modules/three/examples/jsm/postprocessing/RenderPass.js",
+      "file": "assets/RenderPass-fjpxL1o7.js",
+      "rawBytes": 1096,
+      "gzipBytes": 423,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/friendsie-bot.js",
+      "file": "assets/friendsie-bot-CRMQ1v7I.js",
+      "rawBytes": 224,
+      "gzipBytes": 174,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/hub-qa.js",
+      "file": "assets/hub-qa-D6nezCcE.js",
+      "rawBytes": 1442,
+      "gzipBytes": 722,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/performance-diagnostics.js",
+      "file": "assets/performance-diagnostics-ah28R-5I.js",
+      "rawBytes": 8061,
+      "gzipBytes": 3145,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/skyway-round.js",
+      "file": "assets/skyway-round-DYlkHo0-.js",
+      "rawBytes": 6745,
+      "gzipBytes": 2481,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/balloon.js",
+      "file": "assets/balloon-nl7IjiHH.js",
+      "rawBytes": 30468,
+      "gzipBytes": 11605,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/obstacle.js",
+      "file": "assets/obstacle-D4M3jKW6.js",
+      "rawBytes": 36954,
+      "gzipBytes": 14049,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/show67.js",
+      "file": "assets/show67-Df1dAbt8.js",
+      "rawBytes": 16112,
+      "gzipBytes": 6626,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/skate-race.js",
+      "file": "assets/skate-race-CcMWKRWs.js",
+      "rawBytes": 37523,
+      "gzipBytes": 14211,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/squid67.js",
+      "file": "assets/squid67-BHL6UuHF.js",
+      "rawBytes": 17273,
+      "gzipBytes": 6786,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/games/tag.js",
+      "file": "assets/tag-BBj0RGRF.js",
+      "rawBytes": 25164,
+      "gzipBytes": 9734,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/audio.js",
+      "file": "assets/audio-G6jzBwQw.js",
+      "rawBytes": 5625,
+      "gzipBytes": 2199,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/chat.js",
+      "file": "assets/chat-CLwVHvy4.js",
+      "rawBytes": 10288,
+      "gzipBytes": 4095,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/collection.js",
+      "file": "assets/collection-D5mhoWJn.js",
+      "rawBytes": 6515,
+      "gzipBytes": 2883,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/cosmetics.js",
+      "file": "assets/cosmetics-CkqhbgjW.js",
+      "rawBytes": 233,
+      "gzipBytes": 172,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/emotes.js",
+      "file": "assets/emotes-CuUak9Lk.js",
+      "rawBytes": 5123,
+      "gzipBytes": 2360,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/harita.js",
+      "file": "assets/harita-BhxocWjw.js",
+      "rawBytes": 4025,
+      "gzipBytes": 1760,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/market.js",
+      "file": "assets/market-D4avXsv3.js",
+      "rawBytes": 7207,
+      "gzipBytes": 2887,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/quests.js",
+      "file": "assets/quests-Dwip5zIW.js",
+      "rawBytes": 7029,
+      "gzipBytes": 2937,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/season.js",
+      "file": "assets/season-DBoD-C0e.js",
+      "rawBytes": 7929,
+      "gzipBytes": 3407,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/settings.js",
+      "file": "assets/settings-BJotERwZ.js",
+      "rawBytes": 8166,
+      "gzipBytes": 3074,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/shop.js",
+      "file": "assets/shop-Deok_cgA.js",
+      "rawBytes": 14648,
+      "gzipBytes": 5457,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/social.js",
+      "file": "assets/social-CZotejOF.js",
+      "rawBytes": 11616,
+      "gzipBytes": 4175,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/discovery.js",
+      "file": "assets/discovery-BZrXZEz1.js",
+      "rawBytes": 31998,
+      "gzipBytes": 11179,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/ugc/editor.js",
+      "file": "assets/editor-B3VjBDTA.js",
+      "rawBytes": 34925,
+      "gzipBytes": 11872,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/city-districts.js",
+      "file": "assets/city-districts-D1WIhe1Q.js",
+      "rawBytes": 39218,
+      "gzipBytes": 13939,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/friendsies.js",
+      "file": "assets/friendsies-CWLXXNIq.js",
+      "rawBytes": 1937,
+      "gzipBytes": 1083,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/stadium.js",
+      "file": "assets/stadium-BjcLC1ef.js",
+      "rawBytes": 2930,
+      "gzipBytes": 1548,
+      "initial": false,
+      "dynamic": true
+    }
+  ]
+}

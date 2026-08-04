@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./friendsie-bot-NlaYGLZv.js";export{a as FRIENDSIE_RIVALS,n as RIGGED_CHARACTERS,i as createFriendsieRival,t as friendsieRivalId,e as isFriendsieRival,r as isRiggedCharacter};
