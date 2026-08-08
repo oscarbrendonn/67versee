@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T13:26:33.032Z",
+  "generatedAt": "2026-08-08T13:42:19.363Z",
   "initial": {
     "files": [
       {
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-yvDabCys.js",
+        "file": "assets/index-DOET8CM2.js",
         "rawBytes": 93508,
-        "gzipBytes": 33158,
+        "gzipBytes": 33157,
         "initial": true,
         "dynamic": false
       }
     ],
     "rawBytes": 924654,
-    "gzipBytes": 252667
+    "gzipBytes": 252666
   },
   "asyncEntries": [
     {
@@ -167,9 +167,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DR-19BhR.js",
-      "rawBytes": 25375,
-      "gzipBytes": 8653,
+      "file": "assets/mekan-yasam-UnzioIGr.js",
+      "rawBytes": 27070,
+      "gzipBytes": 9282,
       "initial": false,
       "dynamic": true
     },
@@ -457,9 +457,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DR-19BhR.js",
-      "rawBytes": 25375,
-      "gzipBytes": 8653,
+      "file": "assets/mekan-yasam-UnzioIGr.js",
+      "rawBytes": 27070,
+      "gzipBytes": 9282,
       "initial": false,
       "dynamic": true
     },
@@ -1059,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-yvDabCys.js",
+      "file": "assets/index-DOET8CM2.js",
       "rawBytes": 93508,
-      "gzipBytes": 33158,
+      "gzipBytes": 33157,
       "initial": true,
       "dynamic": false
     },
@@ -1339,9 +1339,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DR-19BhR.js",
-      "rawBytes": 25375,
-      "gzipBytes": 8653,
+      "file": "assets/mekan-yasam-UnzioIGr.js",
+      "rawBytes": 27070,
+      "gzipBytes": 9282,
       "initial": false,
       "dynamic": true
     },
