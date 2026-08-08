@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T13:01:32.382Z",
+  "generatedAt": "2026-08-08T13:26:33.032Z",
   "initial": {
     "files": [
       {
@@ -98,22 +98,22 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-LP-VtE-u.js",
-        "rawBytes": 93473,
-        "gzipBytes": 33141,
+        "file": "assets/index-yvDabCys.js",
+        "rawBytes": 93508,
+        "gzipBytes": 33158,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 924619,
-    "gzipBytes": 252650
+    "rawBytes": 924654,
+    "gzipBytes": 252667
   },
   "asyncEntries": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Cco-fc1-.js",
-      "rawBytes": 42425,
-      "gzipBytes": 15232,
+      "file": "assets/city-districts-3ZcVXGjx.js",
+      "rawBytes": 43265,
+      "gzipBytes": 15530,
       "initial": false,
       "dynamic": true
     },
@@ -166,18 +166,18 @@
       "dynamic": true
     },
     {
-      "source": "src/games/tag.js",
-      "file": "assets/tag-CETbi95v.js",
-      "rawBytes": 25164,
-      "gzipBytes": 9733,
+      "source": "src/world/mekan-yasam.js",
+      "file": "assets/mekan-yasam-DR-19BhR.js",
+      "rawBytes": 25375,
+      "gzipBytes": 8653,
       "initial": false,
       "dynamic": true
     },
     {
-      "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-s2-Tl3gk.js",
-      "rawBytes": 21448,
-      "gzipBytes": 7918,
+      "source": "src/games/tag.js",
+      "file": "assets/tag-CETbi95v.js",
+      "rawBytes": 25164,
+      "gzipBytes": 9733,
       "initial": false,
       "dynamic": true
     },
@@ -342,14 +342,6 @@
       "dynamic": true
     },
     {
-      "source": "src/world/stadium.js",
-      "file": "assets/stadium-oNwTSqNx.js",
-      "rawBytes": 2885,
-      "gzipBytes": 1527,
-      "initial": false,
-      "dynamic": true
-    },
-    {
       "source": "src/core/hub-qa.js",
       "file": "assets/hub-qa-CMTw3-ee.js",
       "rawBytes": 2560,
@@ -390,6 +382,14 @@
       "dynamic": true
     },
     {
+      "source": "src/world/stadium.js",
+      "file": "assets/stadium-BSug6Fo2.js",
+      "rawBytes": 89,
+      "gzipBytes": 98,
+      "initial": false,
+      "dynamic": true
+    },
+    {
       "source": "src/world/hava-durumu.js",
       "file": "assets/hava-durumu-DTLJyZMO.js",
       "rawBytes": 70,
@@ -401,9 +401,9 @@
   "deferredChunks": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Cco-fc1-.js",
-      "rawBytes": 42425,
-      "gzipBytes": 15232,
+      "file": "assets/city-districts-3ZcVXGjx.js",
+      "rawBytes": 43265,
+      "gzipBytes": 15530,
       "initial": false,
       "dynamic": true
     },
@@ -456,18 +456,18 @@
       "dynamic": true
     },
     {
-      "source": "src/games/tag.js",
-      "file": "assets/tag-CETbi95v.js",
-      "rawBytes": 25164,
-      "gzipBytes": 9733,
+      "source": "src/world/mekan-yasam.js",
+      "file": "assets/mekan-yasam-DR-19BhR.js",
+      "rawBytes": 25375,
+      "gzipBytes": 8653,
       "initial": false,
       "dynamic": true
     },
     {
-      "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-s2-Tl3gk.js",
-      "rawBytes": 21448,
-      "gzipBytes": 7918,
+      "source": "src/games/tag.js",
+      "file": "assets/tag-CETbi95v.js",
+      "rawBytes": 25164,
+      "gzipBytes": 9733,
       "initial": false,
       "dynamic": true
     },
@@ -712,12 +712,12 @@
       "dynamic": false
     },
     {
-      "source": "src/world/stadium.js",
-      "file": "assets/stadium-oNwTSqNx.js",
-      "rawBytes": 2885,
-      "gzipBytes": 1527,
+      "source": "_stadium-CoxQTP-R.js",
+      "file": "assets/stadium-CoxQTP-R.js",
+      "rawBytes": 2862,
+      "gzipBytes": 1507,
       "initial": false,
-      "dynamic": true
+      "dynamic": false
     },
     {
       "source": "src/core/hub-qa.js",
@@ -812,6 +812,14 @@
       "file": "assets/friendsie-bot-BL5WRlwj.js",
       "rawBytes": 224,
       "gzipBytes": 174,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/world/stadium.js",
+      "file": "assets/stadium-BSug6Fo2.js",
+      "rawBytes": 89,
+      "gzipBytes": 98,
       "initial": false,
       "dynamic": true
     },
@@ -1034,6 +1042,14 @@
       "dynamic": false
     },
     {
+      "source": "_stadium-CoxQTP-R.js",
+      "file": "assets/stadium-CoxQTP-R.js",
+      "rawBytes": 2862,
+      "gzipBytes": 1507,
+      "initial": false,
+      "dynamic": false
+    },
+    {
       "source": "_world-items-Co0SThNS.js",
       "file": "assets/world-items-Co0SThNS.js",
       "rawBytes": 1418,
@@ -1043,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-LP-VtE-u.js",
-      "rawBytes": 93473,
-      "gzipBytes": 33141,
+      "file": "assets/index-yvDabCys.js",
+      "rawBytes": 93508,
+      "gzipBytes": 33158,
       "initial": true,
       "dynamic": false
     },
@@ -1299,9 +1315,9 @@
     },
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Cco-fc1-.js",
-      "rawBytes": 42425,
-      "gzipBytes": 15232,
+      "file": "assets/city-districts-3ZcVXGjx.js",
+      "rawBytes": 43265,
+      "gzipBytes": 15530,
       "initial": false,
       "dynamic": true
     },
@@ -1323,17 +1339,17 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-s2-Tl3gk.js",
-      "rawBytes": 21448,
-      "gzipBytes": 7918,
+      "file": "assets/mekan-yasam-DR-19BhR.js",
+      "rawBytes": 25375,
+      "gzipBytes": 8653,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/world/stadium.js",
-      "file": "assets/stadium-oNwTSqNx.js",
-      "rawBytes": 2885,
-      "gzipBytes": 1527,
+      "file": "assets/stadium-BSug6Fo2.js",
+      "rawBytes": 89,
+      "gzipBytes": 98,
       "initial": false,
       "dynamic": true
     }

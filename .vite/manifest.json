@@ -146,6 +146,14 @@
     "file": "assets/skyway-multiplayer-dLLkg8He.js",
     "name": "skyway-multiplayer"
   },
+  "_stadium-CoxQTP-R.js": {
+    "file": "assets/stadium-CoxQTP-R.js",
+    "name": "stadium",
+    "imports": [
+      "_city-funfair-BXyWVcDk.js",
+      "_mekanlar-CaWZuHBp.js"
+    ]
+  },
   "_world-items-Co0SThNS.js": {
     "file": "assets/world-items-Co0SThNS.js",
     "name": "world-items",
@@ -155,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-LP-VtE-u.js",
+    "file": "assets/index-yvDabCys.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -201,7 +209,7 @@
       "node_modules/three/examples/jsm/postprocessing/GTAOPass.js",
       "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
       "src/world/city-districts.js",
-      "src/world/stadium.js",
+      "_stadium-CoxQTP-R.js",
       "_friendsie-bot-DgQAg3Iw.js",
       "src/core/performance-diagnostics.js",
       "src/karakter-secim.js",
@@ -573,7 +581,7 @@
     ]
   },
   "src/world/city-districts.js": {
-    "file": "assets/city-districts-Cco-fc1-.js",
+    "file": "assets/city-districts-3ZcVXGjx.js",
     "name": "city-districts",
     "src": "src/world/city-districts.js",
     "isDynamicEntry": true,
@@ -605,7 +613,7 @@
     ]
   },
   "src/world/mekan-yasam.js": {
-    "file": "assets/mekan-yasam-s2-Tl3gk.js",
+    "file": "assets/mekan-yasam-DR-19BhR.js",
     "name": "mekan-yasam",
     "src": "src/world/mekan-yasam.js",
     "isDynamicEntry": true,
@@ -615,17 +623,17 @@
       "_registry-CJLgdOlc.js",
       "_friendsie-bot-DgQAg3Iw.js",
       "_game-result-D6Ptxhig.js",
-      "_cosmetics-_eUJ0BSo.js"
+      "_cosmetics-_eUJ0BSo.js",
+      "_stadium-CoxQTP-R.js"
     ]
   },
   "src/world/stadium.js": {
-    "file": "assets/stadium-oNwTSqNx.js",
+    "file": "assets/stadium-BSug6Fo2.js",
     "name": "stadium",
     "src": "src/world/stadium.js",
     "isDynamicEntry": true,
     "imports": [
-      "_city-funfair-BXyWVcDk.js",
-      "_mekanlar-CaWZuHBp.js"
+      "_stadium-CoxQTP-R.js"
     ]
   }
 }
