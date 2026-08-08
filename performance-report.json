@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T19:05:04.407Z",
+  "generatedAt": "2026-08-08T19:58:32.338Z",
   "initial": {
     "files": [
       {
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-CIr_37n4.js",
-        "rawBytes": 94279,
-        "gzipBytes": 33475,
+        "file": "assets/index-ClmQig6i.js",
+        "rawBytes": 94541,
+        "gzipBytes": 33536,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 926017,
-    "gzipBytes": 253197
+    "rawBytes": 926279,
+    "gzipBytes": 253258
   },
   "asyncEntries": [
     {
@@ -1059,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-CIr_37n4.js",
-      "rawBytes": 94279,
-      "gzipBytes": 33475,
+      "file": "assets/index-ClmQig6i.js",
+      "rawBytes": 94541,
+      "gzipBytes": 33536,
       "initial": true,
       "dynamic": false
     },
