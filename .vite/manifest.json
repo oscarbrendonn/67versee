@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-B6BUegYR.js",
+    "file": "assets/index-BscciB_S.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -176,10 +176,11 @@
       "_mekanlar-CaWZuHBp.js",
       "_chase-camera-C5zmafxB.js",
       "_player-DenW0OrT.js",
-      "_registry-CJLgdOlc.js",
-      "_preload-helper-C_S_EEzL.js"
+      "_preload-helper-C_S_EEzL.js",
+      "_registry-CJLgdOlc.js"
     ],
     "dynamicImports": [
+      "_friendsie-bot--BINaBoa.js",
       "src/games/tag.js",
       "src/games/balloon.js",
       "src/games/obstacle.js",
@@ -210,7 +211,6 @@
       "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
       "src/world/city-districts.js",
       "_stadium-CoxQTP-R.js",
-      "_friendsie-bot--BINaBoa.js",
       "src/core/performance-diagnostics.js",
       "src/karakter-secim.js",
       "src/world/friendsies.js",
@@ -337,7 +337,7 @@
     "src": "src/games/obstacle.css"
   },
   "src/games/obstacle.js": {
-    "file": "assets/obstacle-tCkB31Ky.js",
+    "file": "assets/obstacle-E-xIwk3J.js",
     "name": "obstacle",
     "src": "src/games/obstacle.js",
     "isDynamicEntry": true,
@@ -347,8 +347,8 @@
       "_world-items-Co0SThNS.js",
       "_chase-camera-C5zmafxB.js",
       "_player-DenW0OrT.js",
-      "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
+      "_registry-CJLgdOlc.js",
       "_level-widgets-B-YTtERP.js",
       "_skyway-course-simulation--1RrKkxc.js",
       "_party-session-BNjgA_WJ.js",
@@ -373,7 +373,7 @@
     ]
   },
   "src/games/skate-race.js": {
-    "file": "assets/skate-race-CsGc129X.js",
+    "file": "assets/skate-race-C5NppDTz.js",
     "name": "skate-race",
     "src": "src/games/skate-race.js",
     "isDynamicEntry": true,
@@ -383,8 +383,8 @@
       "_world-items-Co0SThNS.js",
       "_chase-camera-C5zmafxB.js",
       "_player-DenW0OrT.js",
-      "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
+      "_registry-CJLgdOlc.js",
       "_level-widgets-B-YTtERP.js",
       "_skyway-course-simulation--1RrKkxc.js",
       "_party-session-BNjgA_WJ.js",
@@ -566,14 +566,14 @@
     ]
   },
   "src/ugc/discovery.js": {
-    "file": "assets/discovery-BviG-rgg.js",
+    "file": "assets/discovery-D5iMIVvR.js",
     "name": "discovery",
     "src": "src/ugc/discovery.js",
     "isDynamicEntry": true,
     "imports": [
       "_player-DenW0OrT.js",
-      "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
+      "_registry-CJLgdOlc.js",
       "_local-save-schema-C0-juTIS.js",
       "_local-moderation-DB4L9d1N.js",
       "_presentation-DbUd8lQT.js"
