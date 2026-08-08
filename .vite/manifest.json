@@ -155,7 +155,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-7eVYbrSX.js",
+    "file": "assets/index-DfDrX6Nw.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -300,7 +300,7 @@
     ]
   },
   "src/games/karting.js": {
-    "file": "assets/karting-WX8bV5rj.js",
+    "file": "assets/karting-BkQ4xJvP.js",
     "name": "karting",
     "src": "src/games/karting.js",
     "isDynamicEntry": true,
@@ -408,7 +408,7 @@
     ]
   },
   "src/karakter-secim.js": {
-    "file": "assets/karakter-secim-BYI4VpFF.js",
+    "file": "assets/karakter-secim-N2DTwOKa.js",
     "name": "karakter-secim",
     "src": "src/karakter-secim.js",
     "isDynamicEntry": true,
@@ -533,7 +533,7 @@
     ]
   },
   "src/systems/telefon.js": {
-    "file": "assets/telefon-BZXp0Bnj.js",
+    "file": "assets/telefon-CqCMTB2t.js",
     "name": "telefon",
     "src": "src/systems/telefon.js",
     "isDynamicEntry": true,
@@ -605,7 +605,7 @@
     ]
   },
   "src/world/mekan-yasam.js": {
-    "file": "assets/mekan-yasam-BKjupEol.js",
+    "file": "assets/mekan-yasam-D2ynSKEd.js",
     "name": "mekan-yasam",
     "src": "src/world/mekan-yasam.js",
     "isDynamicEntry": true,

@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T04:53:52.063Z",
+  "generatedAt": "2026-08-08T11:20:02.460Z",
   "initial": {
     "files": [
       {
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-7eVYbrSX.js",
+        "file": "assets/index-DfDrX6Nw.js",
         "rawBytes": 93530,
-        "gzipBytes": 33174,
+        "gzipBytes": 33175,
         "initial": true,
         "dynamic": false
       }
     ],
     "rawBytes": 923124,
-    "gzipBytes": 252236
+    "gzipBytes": 252237
   },
   "asyncEntries": [
     {
@@ -175,9 +175,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-BKjupEol.js",
-      "rawBytes": 21027,
-      "gzipBytes": 7723,
+      "file": "assets/mekan-yasam-D2ynSKEd.js",
+      "rawBytes": 21237,
+      "gzipBytes": 7830,
       "initial": false,
       "dynamic": true
     },
@@ -207,9 +207,17 @@
     },
     {
       "source": "src/games/karting.js",
-      "file": "assets/karting-WX8bV5rj.js",
-      "rawBytes": 13825,
-      "gzipBytes": 5866,
+      "file": "assets/karting-BkQ4xJvP.js",
+      "rawBytes": 14222,
+      "gzipBytes": 5989,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/systems/telefon.js",
+      "file": "assets/telefon-CqCMTB2t.js",
+      "rawBytes": 11628,
+      "gzipBytes": 3984,
       "initial": false,
       "dynamic": true
     },
@@ -222,18 +230,10 @@
       "dynamic": true
     },
     {
-      "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BZXp0Bnj.js",
-      "rawBytes": 10898,
-      "gzipBytes": 3736,
-      "initial": false,
-      "dynamic": true
-    },
-    {
       "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BYI4VpFF.js",
-      "rawBytes": 10660,
-      "gzipBytes": 4054,
+      "file": "assets/karakter-secim-N2DTwOKa.js",
+      "rawBytes": 11610,
+      "gzipBytes": 4330,
       "initial": false,
       "dynamic": true
     },
@@ -465,9 +465,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-BKjupEol.js",
-      "rawBytes": 21027,
-      "gzipBytes": 7723,
+      "file": "assets/mekan-yasam-D2ynSKEd.js",
+      "rawBytes": 21237,
+      "gzipBytes": 7830,
       "initial": false,
       "dynamic": true
     },
@@ -497,9 +497,9 @@
     },
     {
       "source": "src/games/karting.js",
-      "file": "assets/karting-WX8bV5rj.js",
-      "rawBytes": 13825,
-      "gzipBytes": 5866,
+      "file": "assets/karting-BkQ4xJvP.js",
+      "rawBytes": 14222,
+      "gzipBytes": 5989,
       "initial": false,
       "dynamic": true
     },
@@ -512,10 +512,26 @@
       "dynamic": false
     },
     {
+      "source": "src/systems/telefon.js",
+      "file": "assets/telefon-CqCMTB2t.js",
+      "rawBytes": 11628,
+      "gzipBytes": 3984,
+      "initial": false,
+      "dynamic": true
+    },
+    {
       "source": "src/systems/social.js",
       "file": "assets/social-CZotejOF.js",
       "rawBytes": 11616,
       "gzipBytes": 4175,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/karakter-secim.js",
+      "file": "assets/karakter-secim-N2DTwOKa.js",
+      "rawBytes": 11610,
+      "gzipBytes": 4330,
       "initial": false,
       "dynamic": true
     },
@@ -526,22 +542,6 @@
       "gzipBytes": 4333,
       "initial": false,
       "dynamic": false
-    },
-    {
-      "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BZXp0Bnj.js",
-      "rawBytes": 10898,
-      "gzipBytes": 3736,
-      "initial": false,
-      "dynamic": true
-    },
-    {
-      "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BYI4VpFF.js",
-      "rawBytes": 10660,
-      "gzipBytes": 4054,
-      "initial": false,
-      "dynamic": true
     },
     {
       "source": "src/systems/chat.js",
@@ -1043,9 +1043,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-7eVYbrSX.js",
+      "file": "assets/index-DfDrX6Nw.js",
       "rawBytes": 93530,
-      "gzipBytes": 33174,
+      "gzipBytes": 33175,
       "initial": true,
       "dynamic": false
     },
@@ -1123,9 +1123,9 @@
     },
     {
       "source": "src/games/karting.js",
-      "file": "assets/karting-WX8bV5rj.js",
-      "rawBytes": 13825,
-      "gzipBytes": 5866,
+      "file": "assets/karting-BkQ4xJvP.js",
+      "rawBytes": 14222,
+      "gzipBytes": 5989,
       "initial": false,
       "dynamic": true
     },
@@ -1171,9 +1171,9 @@
     },
     {
       "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BYI4VpFF.js",
-      "rawBytes": 10660,
-      "gzipBytes": 4054,
+      "file": "assets/karakter-secim-N2DTwOKa.js",
+      "rawBytes": 11610,
+      "gzipBytes": 4330,
       "initial": false,
       "dynamic": true
     },
@@ -1275,9 +1275,9 @@
     },
     {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BZXp0Bnj.js",
-      "rawBytes": 10898,
-      "gzipBytes": 3736,
+      "file": "assets/telefon-CqCMTB2t.js",
+      "rawBytes": 11628,
+      "gzipBytes": 3984,
       "initial": false,
       "dynamic": true
     },
@@ -1323,9 +1323,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-BKjupEol.js",
-      "rawBytes": 21027,
-      "gzipBytes": 7723,
+      "file": "assets/mekan-yasam-D2ynSKEd.js",
+      "rawBytes": 21237,
+      "gzipBytes": 7830,
       "initial": false,
       "dynamic": true
     },

@@ -46,6 +46,19 @@ import{i as e}from"./registry-CJLgdOlc.js";import{t}from"./hava-durumu-BBIU1F2x.
 .tf-not { font-size: 12.5px; color: #6b7280; margin: 6px 2px; line-height: 1.5; }
 .tf-buyuk { width: 100%; border: none; border-radius: 14px; background: #17223a; color: #fff;
   padding: 12px; font-size: 14px; font-weight: 700; cursor: pointer; margin-top: 4px; }
+/* Phones: the JUMP/GRAB cluster owns the bottom-right corner, so the phone
+   button, its notification and the device itself ride above it. */
+@media (max-width: 600px) {
+  #tf-dugme { right: calc(env(safe-area-inset-right) + 16px);
+    bottom: calc(env(safe-area-inset-bottom) + 132px); width: 46px; height: 46px; }
+  #tf-bildirim { right: calc(env(safe-area-inset-right) + 16px);
+    bottom: calc(env(safe-area-inset-bottom) + 188px);
+    max-width: calc(100vw - 32px); }
+  #telefon { right: 50%; transform: translateX(50%);
+    bottom: calc(env(safe-area-inset-bottom) + 16px);
+    width: min(320px, calc(100vw - 20px));
+    height: min(560px, calc(100vh - env(safe-area-inset-top) - env(safe-area-inset-bottom) - 90px)); }
+}
 `,a={telefon:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><rect x="7" y="2.5" width="10" height="19" rx="3"/><path d="M11 18.5h2"/></svg>`,mesaj:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-8 8H4l2.4-2.7A8 8 0 1 1 21 12z"/></svg>`,kamera:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-2.5h6L17 8h3a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/><circle cx="12" cy="14" r="3.4"/></svg>`,hava:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17a5 5 0 1 1 1-9.9A6 6 0 1 1 18 17z"/><path d="M8 20.5v.01M12 21.5v.01M16 20.5v.01"/></svg>`,galeri:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="4.5" width="17" height="15" rx="2.5"/><circle cx="9" cy="10" r="1.6"/><path d="M4 17.5 9.5 13l4 3.5 3-2.5 3.5 3"/></svg>`};e(`boot`,e=>{if(typeof document>`u`)return;let o=document.createElement(`style`);o.textContent=i,document.head.appendChild(o);let s=new Map(n.map(e=>[e.id,[]])),c=0,l=[],u=document.createElement(`button`);u.id=`tf-dugme`,u.type=`button`,u.setAttribute(`aria-label`,`Phone`),u.innerHTML=`${a.telefon}<span id="tf-rozet"></span>`,document.body.appendChild(u);let d=u.querySelector(`#tf-rozet`),f=document.createElement(`div`);f.id=`tf-bildirim`,document.body.appendChild(f);let p=null;function m(e,t){f.innerHTML=`<b>${e}</b>${t}`,f.style.display=`block`,clearTimeout(p),p=setTimeout(()=>{f.style.display=`none`},7e3)}function h(){d.style.display=c>0?`flex`:`none`,d.textContent=c>9?`9+`:String(c)}let g=document.createElement(`div`);g.id=`telefon`,g.innerHTML=`
     <div id="tf-ekran">
       <div id="tf-ust">
