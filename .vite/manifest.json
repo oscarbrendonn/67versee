@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CCQ4T1Ax.js",
+    "file": "assets/index-DjNuh0Ik.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -596,7 +596,7 @@
     ]
   },
   "src/world/city-districts.js": {
-    "file": "assets/city-districts-D4B9n6Uk.js",
+    "file": "assets/city-districts-DOu34Mq-.js",
     "name": "city-districts",
     "src": "src/world/city-districts.js",
     "isDynamicEntry": true,
@@ -628,7 +628,7 @@
     ]
   },
   "src/world/mekan-yasam.js": {
-    "file": "assets/mekan-yasam-D5H3v_bN.js",
+    "file": "assets/mekan-yasam-DSqlicwG.js",
     "name": "mekan-yasam",
     "src": "src/world/mekan-yasam.js",
     "isDynamicEntry": true,
