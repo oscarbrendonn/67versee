@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T17:32:59.114Z",
+  "generatedAt": "2026-08-08T19:05:04.407Z",
   "initial": {
     "files": [
       {
@@ -98,22 +98,22 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-CFwfhEkN.js",
+        "file": "assets/index-CIr_37n4.js",
         "rawBytes": 94279,
-        "gzipBytes": 33476,
+        "gzipBytes": 33475,
         "initial": true,
         "dynamic": false
       }
     ],
     "rawBytes": 926017,
-    "gzipBytes": 253198
+    "gzipBytes": 253197
   },
   "asyncEntries": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-DQzTNmCV.js",
-      "rawBytes": 45595,
-      "gzipBytes": 16399,
+      "file": "assets/city-districts-D4B9n6Uk.js",
+      "rawBytes": 45497,
+      "gzipBytes": 16400,
       "initial": false,
       "dynamic": true
     },
@@ -401,9 +401,9 @@
   "deferredChunks": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-DQzTNmCV.js",
-      "rawBytes": 45595,
-      "gzipBytes": 16399,
+      "file": "assets/city-districts-D4B9n6Uk.js",
+      "rawBytes": 45497,
+      "gzipBytes": 16400,
       "initial": false,
       "dynamic": true
     },
@@ -1059,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-CFwfhEkN.js",
+      "file": "assets/index-CIr_37n4.js",
       "rawBytes": 94279,
-      "gzipBytes": 33476,
+      "gzipBytes": 33475,
       "initial": true,
       "dynamic": false
     },
@@ -1315,9 +1315,9 @@
     },
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-DQzTNmCV.js",
-      "rawBytes": 45595,
-      "gzipBytes": 16399,
+      "file": "assets/city-districts-D4B9n6Uk.js",
+      "rawBytes": 45497,
+      "gzipBytes": 16400,
       "initial": false,
       "dynamic": true
     },
