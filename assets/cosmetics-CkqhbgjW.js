@@ -1,1 +1,0 @@
-import{a as e,i as t,n,o as r,r as i,s as a,t as o}from"./cosmetics-Bn_HT9WS.js";export{o as COSMETICS,n as COSMETIC_BONES,i as attachCosmetic,t as getPlayerCharacter,e as getPlayerRig,r as onPlayerRig,a as persistEquippedCosmetics};
