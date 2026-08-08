@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T21:29:41.180Z",
+  "generatedAt": "2026-08-08T22:32:06.032Z",
   "initial": {
     "files": [
       {
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-C0gXaPZ5.js",
-        "rawBytes": 96219,
-        "gzipBytes": 34249,
+        "file": "assets/index-BAjWGvgi.js",
+        "rawBytes": 96252,
+        "gzipBytes": 34268,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 927957,
-    "gzipBytes": 253971
+    "rawBytes": 927990,
+    "gzipBytes": 253990
   },
   "asyncEntries": [
     {
@@ -167,9 +167,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DSqlicwG.js",
-      "rawBytes": 29129,
-      "gzipBytes": 9834,
+      "file": "assets/mekan-yasam-DxK37vix.js",
+      "rawBytes": 29742,
+      "gzipBytes": 10110,
       "initial": false,
       "dynamic": true
     },
@@ -465,9 +465,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DSqlicwG.js",
-      "rawBytes": 29129,
-      "gzipBytes": 9834,
+      "file": "assets/mekan-yasam-DxK37vix.js",
+      "rawBytes": 29742,
+      "gzipBytes": 10110,
       "initial": false,
       "dynamic": true
     },
@@ -1075,9 +1075,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-C0gXaPZ5.js",
-      "rawBytes": 96219,
-      "gzipBytes": 34249,
+      "file": "assets/index-BAjWGvgi.js",
+      "rawBytes": 96252,
+      "gzipBytes": 34268,
       "initial": true,
       "dynamic": false
     },
@@ -1363,9 +1363,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-DSqlicwG.js",
-      "rawBytes": 29129,
-      "gzipBytes": 9834,
+      "file": "assets/mekan-yasam-DxK37vix.js",
+      "rawBytes": 29742,
+      "gzipBytes": 10110,
       "initial": false,
       "dynamic": true
     },
