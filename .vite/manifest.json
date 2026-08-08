@@ -32,12 +32,12 @@
       "_level-widgets-B-YTtERP.js"
     ]
   },
-  "_bots-BiK6RvfP.js": {
-    "file": "assets/bots-BiK6RvfP.js",
+  "_bots-D_uze89q.js": {
+    "file": "assets/bots-D_uze89q.js",
     "name": "bots",
     "imports": [
-      "_player-DJa0qJsT.js",
-      "_friendsie-bot-DgQAg3Iw.js"
+      "_player-IIqBBzv0.js",
+      "_friendsie-bot--BINaBoa.js"
     ]
   },
   "_chase-camera-D0h6mxoJ.js": {
@@ -64,8 +64,8 @@
       "_registry-CJLgdOlc.js"
     ]
   },
-  "_friendsie-bot-DgQAg3Iw.js": {
-    "file": "assets/friendsie-bot-DgQAg3Iw.js",
+  "_friendsie-bot--BINaBoa.js": {
+    "file": "assets/friendsie-bot--BINaBoa.js",
     "name": "friendsie-bot",
     "imports": [
       "_city-funfair-BXyWVcDk.js",
@@ -110,8 +110,8 @@
     "file": "assets/party-session-BNjgA_WJ.js",
     "name": "party-session"
   },
-  "_player-DJa0qJsT.js": {
-    "file": "assets/player-DJa0qJsT.js",
+  "_player-IIqBBzv0.js": {
+    "file": "assets/player-IIqBBzv0.js",
     "name": "player"
   },
   "_preload-helper-C_S_EEzL.js": {
@@ -134,11 +134,11 @@
     "file": "assets/sky-CLzF4ZUM.js",
     "name": "sky"
   },
-  "_skyway-course-simulation-CJTtQDDN.js": {
-    "file": "assets/skyway-course-simulation-CJTtQDDN.js",
+  "_skyway-course-simulation-B-TVxgsd.js": {
+    "file": "assets/skyway-course-simulation-B-TVxgsd.js",
     "name": "skyway-course-simulation",
     "imports": [
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_level-widgets-B-YTtERP.js"
     ]
   },
@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-BMDz2uTG.js",
+    "file": "assets/index-DLC5GR9Q.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -175,7 +175,7 @@
       "_world-items-Co0SThNS.js",
       "_mekanlar-CaWZuHBp.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js"
     ],
@@ -210,7 +210,7 @@
       "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
       "src/world/city-districts.js",
       "_stadium-CoxQTP-R.js",
-      "_friendsie-bot-DgQAg3Iw.js",
+      "_friendsie-bot--BINaBoa.js",
       "src/core/performance-diagnostics.js",
       "src/karakter-secim.js",
       "src/world/friendsies.js",
@@ -260,12 +260,12 @@
     ]
   },
   "src/core/friendsie-bot.js": {
-    "file": "assets/friendsie-bot-BL5WRlwj.js",
+    "file": "assets/friendsie-bot-Dj0jDIME.js",
     "name": "friendsie-bot",
     "src": "src/core/friendsie-bot.js",
     "isDynamicEntry": true,
     "imports": [
-      "_friendsie-bot-DgQAg3Iw.js"
+      "_friendsie-bot--BINaBoa.js"
     ]
   },
   "src/core/hub-qa.js": {
@@ -281,16 +281,16 @@
     "isDynamicEntry": true
   },
   "src/core/skyway-round.js": {
-    "file": "assets/skyway-round-BUV9hFJW.js",
+    "file": "assets/skyway-round-pCPNpQUs.js",
     "name": "skyway-round",
     "src": "src/core/skyway-round.js",
     "isDynamicEntry": true,
     "imports": [
-      "_skyway-course-simulation-CJTtQDDN.js"
+      "_skyway-course-simulation-B-TVxgsd.js"
     ]
   },
   "src/games/balloon.js": {
-    "file": "assets/balloon-svQbp7vf.js",
+    "file": "assets/balloon-CcGb-CdO.js",
     "name": "balloon",
     "src": "src/games/balloon.js",
     "isDynamicEntry": true,
@@ -298,11 +298,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
-      "_friendsie-bot-DgQAg3Iw.js",
+      "_friendsie-bot--BINaBoa.js",
       "_level-widgets-B-YTtERP.js",
-      "_bots-BiK6RvfP.js",
+      "_bots-D_uze89q.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
@@ -323,7 +323,7 @@
     "src": "src/games/obstacle.css"
   },
   "src/games/obstacle.js": {
-    "file": "assets/obstacle-4Hac8QKl.js",
+    "file": "assets/obstacle-BBiESYdB.js",
     "name": "obstacle",
     "src": "src/games/obstacle.js",
     "isDynamicEntry": true,
@@ -332,11 +332,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_level-widgets-B-YTtERP.js",
-      "_skyway-course-simulation-CJTtQDDN.js",
+      "_skyway-course-simulation-B-TVxgsd.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js",
       "_RoundedBoxGeometry-BeV-kS-u.js",
@@ -359,7 +359,7 @@
     ]
   },
   "src/games/skate-race.js": {
-    "file": "assets/skate-race-CqyGQDSz.js",
+    "file": "assets/skate-race-D1w1BoyI.js",
     "name": "skate-race",
     "src": "src/games/skate-race.js",
     "isDynamicEntry": true,
@@ -368,11 +368,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_level-widgets-B-YTtERP.js",
-      "_skyway-course-simulation-CJTtQDDN.js",
+      "_skyway-course-simulation-B-TVxgsd.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js",
       "_RoundedBoxGeometry-BeV-kS-u.js",
@@ -383,23 +383,23 @@
     ]
   },
   "src/games/squid67.js": {
-    "file": "assets/squid67-HjYiWWNR.js",
+    "file": "assets/squid67-D-AuL7Af.js",
     "name": "squid67",
     "src": "src/games/squid67.js",
     "isDynamicEntry": true,
     "imports": [
       "_sky-CLzF4ZUM.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
-      "_friendsie-bot-DgQAg3Iw.js",
-      "_bots-BiK6RvfP.js",
+      "_friendsie-bot--BINaBoa.js",
+      "_bots-D_uze89q.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
   },
   "src/games/tag.js": {
-    "file": "assets/tag-CLDWWzC5.js",
+    "file": "assets/tag-BQg8Is_V.js",
     "name": "tag",
     "src": "src/games/tag.js",
     "isDynamicEntry": true,
@@ -407,10 +407,10 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
-      "_friendsie-bot-DgQAg3Iw.js",
-      "_bots-BiK6RvfP.js",
+      "_friendsie-bot--BINaBoa.js",
+      "_bots-D_uze89q.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
@@ -552,12 +552,12 @@
     ]
   },
   "src/ugc/discovery.js": {
-    "file": "assets/discovery-Cf1FJbuB.js",
+    "file": "assets/discovery-DuClUmRy.js",
     "name": "discovery",
     "src": "src/ugc/discovery.js",
     "isDynamicEntry": true,
     "imports": [
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_local-save-schema-C0-juTIS.js",
@@ -569,12 +569,12 @@
     ]
   },
   "src/ugc/editor.js": {
-    "file": "assets/editor-GvAVk8yV.js",
+    "file": "assets/editor-cjoTZ7S4.js",
     "name": "editor",
     "src": "src/ugc/editor.js",
     "isDynamicEntry": true,
     "imports": [
-      "_player-DJa0qJsT.js",
+      "_player-IIqBBzv0.js",
       "_registry-CJLgdOlc.js",
       "_level-widgets-B-YTtERP.js",
       "_local-save-schema-C0-juTIS.js",
@@ -582,7 +582,7 @@
     ]
   },
   "src/world/city-districts.js": {
-    "file": "assets/city-districts-O1r77vZn.js",
+    "file": "assets/city-districts-CjTLWV36.js",
     "name": "city-districts",
     "src": "src/world/city-districts.js",
     "isDynamicEntry": true,
@@ -614,7 +614,7 @@
     ]
   },
   "src/world/mekan-yasam.js": {
-    "file": "assets/mekan-yasam-CxxdH5mF.js",
+    "file": "assets/mekan-yasam-D5H3v_bN.js",
     "name": "mekan-yasam",
     "src": "src/world/mekan-yasam.js",
     "isDynamicEntry": true,
@@ -622,7 +622,7 @@
       "_city-funfair-BXyWVcDk.js",
       "_mekanlar-CaWZuHBp.js",
       "_registry-CJLgdOlc.js",
-      "_friendsie-bot-DgQAg3Iw.js",
+      "_friendsie-bot--BINaBoa.js",
       "_game-result-D6Ptxhig.js",
       "_cosmetics-_eUJ0BSo.js",
       "_stadium-CoxQTP-R.js"
