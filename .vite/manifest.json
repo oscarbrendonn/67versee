@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-ClmQig6i.js",
+    "file": "assets/index-CAgvlH4L.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -214,6 +214,7 @@
       "src/core/performance-diagnostics.js",
       "src/karakter-secim.js",
       "src/world/friendsies.js",
+      "src/core/park-online.js",
       "src/core/hub-qa.js"
     ]
   },
@@ -273,6 +274,19 @@
     "name": "hub-qa",
     "src": "src/core/hub-qa.js",
     "isDynamicEntry": true
+  },
+  "src/core/park-online.js": {
+    "file": "assets/park-online-Bx5jsQIR.js",
+    "name": "park-online",
+    "src": "src/core/park-online.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_city-funfair-BXyWVcDk.js",
+      "_preload-helper-C_S_EEzL.js"
+    ],
+    "dynamicImports": [
+      "_friendsie-bot--BINaBoa.js"
+    ]
   },
   "src/core/performance-diagnostics.js": {
     "file": "assets/performance-diagnostics-ah28R-5I.js",
@@ -416,7 +430,7 @@
     ]
   },
   "src/karakter-secim.js": {
-    "file": "assets/karakter-secim-D_HoYSu1.js",
+    "file": "assets/karakter-secim-DbcWVQPR.js",
     "name": "karakter-secim",
     "src": "src/karakter-secim.js",
     "isDynamicEntry": true,

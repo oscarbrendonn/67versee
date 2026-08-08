@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T19:58:32.338Z",
+  "generatedAt": "2026-08-08T20:34:56.678Z",
   "initial": {
     "files": [
       {
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-ClmQig6i.js",
-        "rawBytes": 94541,
-        "gzipBytes": 33536,
+        "file": "assets/index-CAgvlH4L.js",
+        "rawBytes": 94950,
+        "gzipBytes": 33676,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 926279,
-    "gzipBytes": 253258
+    "rawBytes": 926688,
+    "gzipBytes": 253398
   },
   "asyncEntries": [
     {
@@ -206,18 +206,18 @@
       "dynamic": true
     },
     {
-      "source": "src/games/karting.js",
-      "file": "assets/karting-BkQ4xJvP.js",
-      "rawBytes": 14222,
-      "gzipBytes": 5989,
+      "source": "src/karakter-secim.js",
+      "file": "assets/karakter-secim-DbcWVQPR.js",
+      "rawBytes": 14585,
+      "gzipBytes": 5319,
       "initial": false,
       "dynamic": true
     },
     {
-      "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-D_HoYSu1.js",
-      "rawBytes": 13330,
-      "gzipBytes": 4855,
+      "source": "src/games/karting.js",
+      "file": "assets/karting-BkQ4xJvP.js",
+      "rawBytes": 14222,
+      "gzipBytes": 5989,
       "initial": false,
       "dynamic": true
     },
@@ -330,6 +330,14 @@
       "file": "assets/harita-BhxocWjw.js",
       "rawBytes": 4025,
       "gzipBytes": 1760,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/park-online.js",
+      "file": "assets/park-online-Bx5jsQIR.js",
+      "rawBytes": 3555,
+      "gzipBytes": 1924,
       "initial": false,
       "dynamic": true
     },
@@ -496,18 +504,18 @@
       "dynamic": true
     },
     {
-      "source": "src/games/karting.js",
-      "file": "assets/karting-BkQ4xJvP.js",
-      "rawBytes": 14222,
-      "gzipBytes": 5989,
+      "source": "src/karakter-secim.js",
+      "file": "assets/karakter-secim-DbcWVQPR.js",
+      "rawBytes": 14585,
+      "gzipBytes": 5319,
       "initial": false,
       "dynamic": true
     },
     {
-      "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-D_HoYSu1.js",
-      "rawBytes": 13330,
-      "gzipBytes": 4855,
+      "source": "src/games/karting.js",
+      "file": "assets/karting-BkQ4xJvP.js",
+      "rawBytes": 14222,
+      "gzipBytes": 5989,
       "initial": false,
       "dynamic": true
     },
@@ -710,6 +718,14 @@
       "gzipBytes": 1832,
       "initial": false,
       "dynamic": false
+    },
+    {
+      "source": "src/core/park-online.js",
+      "file": "assets/park-online-Bx5jsQIR.js",
+      "rawBytes": 3555,
+      "gzipBytes": 1924,
+      "initial": false,
+      "dynamic": true
     },
     {
       "source": "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
@@ -1059,9 +1075,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-ClmQig6i.js",
-      "rawBytes": 94541,
-      "gzipBytes": 33536,
+      "file": "assets/index-CAgvlH4L.js",
+      "rawBytes": 94950,
+      "gzipBytes": 33676,
       "initial": true,
       "dynamic": false
     },
@@ -1110,6 +1126,14 @@
       "file": "assets/hub-qa-CMTw3-ee.js",
       "rawBytes": 2560,
       "gzipBytes": 1291,
+      "initial": false,
+      "dynamic": true
+    },
+    {
+      "source": "src/core/park-online.js",
+      "file": "assets/park-online-Bx5jsQIR.js",
+      "rawBytes": 3555,
+      "gzipBytes": 1924,
       "initial": false,
       "dynamic": true
     },
@@ -1187,9 +1211,9 @@
     },
     {
       "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-D_HoYSu1.js",
-      "rawBytes": 13330,
-      "gzipBytes": 4855,
+      "file": "assets/karakter-secim-DbcWVQPR.js",
+      "rawBytes": 14585,
+      "gzipBytes": 5319,
       "initial": false,
       "dynamic": true
     },
