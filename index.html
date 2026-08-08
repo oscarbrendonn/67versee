@@ -373,6 +373,7 @@
     }
     .tbtn:active, .tbtn.held { background: rgba(6, 12, 33, 0.14); transform: scale(0.94); }
     #btn-jump { width: 84px; height: 84px; background: rgba(208, 119, 94, 0.55); border-color: rgba(208,119,94,0.7); }
+    #btn-sprint { background: rgba(90, 156, 216, 0.5); border-color: rgba(90,156,216,0.7); }
 
     /* Keep the full hub visible on phones: two compact icon rows share the
        top safe area with the wordmark instead of covering the city horizon. */
@@ -435,15 +436,15 @@
       *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0.01ms !important; }
     }
   </style>
-  <script type="module" crossorigin src="/67versee/assets/index-DfDrX6Nw.js"></script>
-  <link rel="modulepreload" crossorigin href="/67versee/assets/city-funfair-D4kXswn-.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/RoomEnvironment-BmfbGfPd.js">
+  <script type="module" crossorigin src="/67versee/assets/index-LP-VtE-u.js"></script>
+  <link rel="modulepreload" crossorigin href="/67versee/assets/city-funfair-BXyWVcDk.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/RoomEnvironment-CdOJMQWH.js">
   <link rel="modulepreload" crossorigin href="/67versee/assets/sky-CLzF4ZUM.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/GLTFLoader-ByCnPVBP.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/world-items-C4K1W1Sv.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/mekanlar-7sbop6uM.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/chase-camera-Bw43WKz9.js">
-  <link rel="modulepreload" crossorigin href="/67versee/assets/player-CfwR2jpC.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/GLTFLoader-uES3ShkA.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/world-items-Co0SThNS.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/mekanlar-CaWZuHBp.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/chase-camera-D0h6mxoJ.js">
+  <link rel="modulepreload" crossorigin href="/67versee/assets/player-BG92eET_.js">
   <link rel="modulepreload" crossorigin href="/67versee/assets/registry-CJLgdOlc.js">
   <link rel="modulepreload" crossorigin href="/67versee/assets/preload-helper-C_S_EEzL.js">
 </head>
@@ -470,7 +471,6 @@
     role="dialog"
     aria-modal="true"
     aria-labelledby="entry-title"
-    aria-describedby="entry-summary"
   >
     <div id="entry-content">
       <!-- The wordmark is Oscar's own 67park artwork, lifted out of his clip
@@ -481,7 +481,6 @@
            either failure would put that grey card back behind the letters. -->
       <img id="entry-brand" src="/67versee/brand/67park-logo.png" alt="67 Park" />
       <h1 id="entry-title" class="visually-hidden">67 Park</h1>
-      <p id="entry-summary">INSTANT LOCAL PLAY · SKYWAY SPRINT · TAG · BALLOON BATTLE · SKATE RACE · 67 SHOW · CREATOR</p>
       <button id="enter-game" type="button">ENTER 67 PARK</button>
     </div>
   </div>
@@ -494,6 +493,7 @@
   <div id="touch-ui" inert aria-hidden="true">
     <div id="stick-base"><div id="stick-knob"></div></div>
     <div id="touch-buttons">
+      <button class="tbtn" id="btn-sprint" type="button" aria-label="Sprint">FAST</button>
       <button class="tbtn" id="btn-grab" type="button" aria-label="Grab or interact">GRAB</button>
       <button class="tbtn" id="btn-jump" type="button" aria-label="Jump">JUMP</button>
     </div>
