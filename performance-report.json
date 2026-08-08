@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T14:08:44.039Z",
+  "generatedAt": "2026-08-08T14:34:46.555Z",
   "initial": {
     "files": [
       {
@@ -98,22 +98,22 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-BXE3MMwP.js",
-        "rawBytes": 93508,
-        "gzipBytes": 33157,
+        "file": "assets/index-DrziufDo.js",
+        "rawBytes": 93586,
+        "gzipBytes": 33166,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 924672,
-    "gzipBytes": 252672
+    "rawBytes": 924750,
+    "gzipBytes": 252681
   },
   "asyncEntries": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-3ZcVXGjx.js",
-      "rawBytes": 43265,
-      "gzipBytes": 15530,
+      "file": "assets/city-districts-yyBhJCXA.js",
+      "rawBytes": 43509,
+      "gzipBytes": 15635,
       "initial": false,
       "dynamic": true
     },
@@ -167,9 +167,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-D7Omqu5V.js",
-      "rawBytes": 27990,
-      "gzipBytes": 9587,
+      "file": "assets/mekan-yasam-CxxdH5mF.js",
+      "rawBytes": 28238,
+      "gzipBytes": 9676,
       "initial": false,
       "dynamic": true
     },
@@ -214,10 +214,18 @@
       "dynamic": true
     },
     {
+      "source": "src/karakter-secim.js",
+      "file": "assets/karakter-secim-D_HoYSu1.js",
+      "rawBytes": 13330,
+      "gzipBytes": 4855,
+      "initial": false,
+      "dynamic": true
+    },
+    {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BXm4Mv4R.js",
-      "rawBytes": 12511,
-      "gzipBytes": 4349,
+      "file": "assets/telefon-TQG-v5d2.js",
+      "rawBytes": 12559,
+      "gzipBytes": 4361,
       "initial": false,
       "dynamic": true
     },
@@ -226,14 +234,6 @@
       "file": "assets/social-CZotejOF.js",
       "rawBytes": 11616,
       "gzipBytes": 4175,
-      "initial": false,
-      "dynamic": true
-    },
-    {
-      "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BBaDfmBw.js",
-      "rawBytes": 11610,
-      "gzipBytes": 4331,
       "initial": false,
       "dynamic": true
     },
@@ -401,9 +401,9 @@
   "deferredChunks": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-3ZcVXGjx.js",
-      "rawBytes": 43265,
-      "gzipBytes": 15530,
+      "file": "assets/city-districts-yyBhJCXA.js",
+      "rawBytes": 43509,
+      "gzipBytes": 15635,
       "initial": false,
       "dynamic": true
     },
@@ -457,9 +457,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-D7Omqu5V.js",
-      "rawBytes": 27990,
-      "gzipBytes": 9587,
+      "file": "assets/mekan-yasam-CxxdH5mF.js",
+      "rawBytes": 28238,
+      "gzipBytes": 9676,
       "initial": false,
       "dynamic": true
     },
@@ -504,10 +504,18 @@
       "dynamic": true
     },
     {
+      "source": "src/karakter-secim.js",
+      "file": "assets/karakter-secim-D_HoYSu1.js",
+      "rawBytes": 13330,
+      "gzipBytes": 4855,
+      "initial": false,
+      "dynamic": true
+    },
+    {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BXm4Mv4R.js",
-      "rawBytes": 12511,
-      "gzipBytes": 4349,
+      "file": "assets/telefon-TQG-v5d2.js",
+      "rawBytes": 12559,
+      "gzipBytes": 4361,
       "initial": false,
       "dynamic": true
     },
@@ -524,14 +532,6 @@
       "file": "assets/social-CZotejOF.js",
       "rawBytes": 11616,
       "gzipBytes": 4175,
-      "initial": false,
-      "dynamic": true
-    },
-    {
-      "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BBaDfmBw.js",
-      "rawBytes": 11610,
-      "gzipBytes": 4331,
       "initial": false,
       "dynamic": true
     },
@@ -1059,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-BXE3MMwP.js",
-      "rawBytes": 93508,
-      "gzipBytes": 33157,
+      "file": "assets/index-DrziufDo.js",
+      "rawBytes": 93586,
+      "gzipBytes": 33166,
       "initial": true,
       "dynamic": false
     },
@@ -1187,9 +1187,9 @@
     },
     {
       "source": "src/karakter-secim.js",
-      "file": "assets/karakter-secim-BBaDfmBw.js",
-      "rawBytes": 11610,
-      "gzipBytes": 4331,
+      "file": "assets/karakter-secim-D_HoYSu1.js",
+      "rawBytes": 13330,
+      "gzipBytes": 4855,
       "initial": false,
       "dynamic": true
     },
@@ -1291,9 +1291,9 @@
     },
     {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-BXm4Mv4R.js",
-      "rawBytes": 12511,
-      "gzipBytes": 4349,
+      "file": "assets/telefon-TQG-v5d2.js",
+      "rawBytes": 12559,
+      "gzipBytes": 4361,
       "initial": false,
       "dynamic": true
     },
@@ -1315,9 +1315,9 @@
     },
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-3ZcVXGjx.js",
-      "rawBytes": 43265,
-      "gzipBytes": 15530,
+      "file": "assets/city-districts-yyBhJCXA.js",
+      "rawBytes": 43509,
+      "gzipBytes": 15635,
       "initial": false,
       "dynamic": true
     },
@@ -1339,9 +1339,9 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-D7Omqu5V.js",
-      "rawBytes": 27990,
-      "gzipBytes": 9587,
+      "file": "assets/mekan-yasam-CxxdH5mF.js",
+      "rawBytes": 28238,
+      "gzipBytes": 9676,
       "initial": false,
       "dynamic": true
     },
