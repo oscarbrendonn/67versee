@@ -2,7 +2,7 @@
   "budget": {
     "initialJsRawBytes": 950000,
     "initialJsGzipBytes": 262000,
-    "maxAsyncJsRawBytes": 45000,
+    "maxAsyncJsRawBytes": 46000,
     "requiredDeferredSources": [
       "src/core/performance-diagnostics.js",
       "src/systems/cosmetics.js",
@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T16:51:27.731Z",
+  "generatedAt": "2026-08-08T17:32:59.114Z",
   "initial": {
     "files": [
       {
@@ -98,22 +98,22 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-DbSoKdPg.js",
+        "file": "assets/index-CFwfhEkN.js",
         "rawBytes": 94279,
-        "gzipBytes": 33472,
+        "gzipBytes": 33476,
         "initial": true,
         "dynamic": false
       }
     ],
     "rawBytes": 926017,
-    "gzipBytes": 253194
+    "gzipBytes": 253198
   },
   "asyncEntries": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Dn4MF-E2.js",
-      "rawBytes": 44912,
-      "gzipBytes": 16136,
+      "file": "assets/city-districts-DQzTNmCV.js",
+      "rawBytes": 45595,
+      "gzipBytes": 16399,
       "initial": false,
       "dynamic": true
     },
@@ -401,9 +401,9 @@
   "deferredChunks": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Dn4MF-E2.js",
-      "rawBytes": 44912,
-      "gzipBytes": 16136,
+      "file": "assets/city-districts-DQzTNmCV.js",
+      "rawBytes": 45595,
+      "gzipBytes": 16399,
       "initial": false,
       "dynamic": true
     },
@@ -1059,9 +1059,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-DbSoKdPg.js",
+      "file": "assets/index-CFwfhEkN.js",
       "rawBytes": 94279,
-      "gzipBytes": 33472,
+      "gzipBytes": 33476,
       "initial": true,
       "dynamic": false
     },
@@ -1315,9 +1315,9 @@
     },
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-Dn4MF-E2.js",
-      "rawBytes": 44912,
-      "gzipBytes": 16136,
+      "file": "assets/city-districts-DQzTNmCV.js",
+      "rawBytes": 45595,
+      "gzipBytes": 16399,
       "initial": false,
       "dynamic": true
     },
