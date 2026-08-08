@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-08T13:42:19.363Z",
+  "generatedAt": "2026-08-08T14:08:44.039Z",
   "initial": {
     "files": [
       {
@@ -57,10 +57,10 @@
         "dynamic": false
       },
       {
-        "source": "_player-BG92eET_.js",
-        "file": "assets/player-BG92eET_.js",
-        "rawBytes": 2880,
-        "gzipBytes": 1096,
+        "source": "_player-DJa0qJsT.js",
+        "file": "assets/player-DJa0qJsT.js",
+        "rawBytes": 2898,
+        "gzipBytes": 1102,
         "initial": true,
         "dynamic": false
       },
@@ -98,15 +98,15 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-DOET8CM2.js",
+        "file": "assets/index-BXE3MMwP.js",
         "rawBytes": 93508,
         "gzipBytes": 33157,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 924654,
-    "gzipBytes": 252666
+    "rawBytes": 924672,
+    "gzipBytes": 252672
   },
   "asyncEntries": [
     {
@@ -119,41 +119,41 @@
     },
     {
       "source": "src/games/skate-race.js",
-      "file": "assets/skate-race-DhsYUgYZ.js",
+      "file": "assets/skate-race-CqyGQDSz.js",
       "rawBytes": 37506,
-      "gzipBytes": 14199,
+      "gzipBytes": 14201,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/obstacle.js",
-      "file": "assets/obstacle-CjuNFgk2.js",
+      "file": "assets/obstacle-4Hac8QKl.js",
       "rawBytes": 36937,
-      "gzipBytes": 14039,
+      "gzipBytes": 14040,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/editor.js",
-      "file": "assets/editor-B_s3K0E5.js",
+      "file": "assets/editor-GvAVk8yV.js",
       "rawBytes": 34925,
-      "gzipBytes": 11873,
+      "gzipBytes": 11872,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/balloon.js",
-      "file": "assets/balloon-DWS71NAC.js",
+      "file": "assets/balloon-svQbp7vf.js",
       "rawBytes": 32390,
-      "gzipBytes": 11996,
+      "gzipBytes": 11993,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/discovery.js",
-      "file": "assets/discovery-Bne8OnUg.js",
+      "file": "assets/discovery-Cf1FJbuB.js",
       "rawBytes": 31998,
-      "gzipBytes": 11177,
+      "gzipBytes": 11179,
       "initial": false,
       "dynamic": true
     },
@@ -167,15 +167,15 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-UnzioIGr.js",
-      "rawBytes": 27070,
-      "gzipBytes": 9282,
+      "file": "assets/mekan-yasam-D7Omqu5V.js",
+      "rawBytes": 27990,
+      "gzipBytes": 9587,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/tag.js",
-      "file": "assets/tag-CETbi95v.js",
+      "file": "assets/tag-CLDWWzC5.js",
       "rawBytes": 25164,
       "gzipBytes": 9733,
       "initial": false,
@@ -183,7 +183,7 @@
     },
     {
       "source": "src/games/squid67.js",
-      "file": "assets/squid67-BJo3VtTu.js",
+      "file": "assets/squid67-HjYiWWNR.js",
       "rawBytes": 17273,
       "gzipBytes": 6786,
       "initial": false,
@@ -215,9 +215,9 @@
     },
     {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-CL96UKzV.js",
-      "rawBytes": 11628,
-      "gzipBytes": 3983,
+      "file": "assets/telefon-BXm4Mv4R.js",
+      "rawBytes": 12511,
+      "gzipBytes": 4349,
       "initial": false,
       "dynamic": true
     },
@@ -287,9 +287,9 @@
     },
     {
       "source": "src/core/skyway-round.js",
-      "file": "assets/skyway-round-CKLsBipq.js",
+      "file": "assets/skyway-round-BUV9hFJW.js",
       "rawBytes": 6745,
-      "gzipBytes": 2483,
+      "gzipBytes": 2481,
       "initial": false,
       "dynamic": true
     },
@@ -391,9 +391,9 @@
     },
     {
       "source": "src/world/hava-durumu.js",
-      "file": "assets/hava-durumu-DTLJyZMO.js",
-      "rawBytes": 70,
-      "gzipBytes": 80,
+      "file": "assets/hava-durumu-edvCei7q.js",
+      "rawBytes": 87,
+      "gzipBytes": 94,
       "initial": false,
       "dynamic": true
     }
@@ -409,41 +409,41 @@
     },
     {
       "source": "src/games/skate-race.js",
-      "file": "assets/skate-race-DhsYUgYZ.js",
+      "file": "assets/skate-race-CqyGQDSz.js",
       "rawBytes": 37506,
-      "gzipBytes": 14199,
+      "gzipBytes": 14201,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/obstacle.js",
-      "file": "assets/obstacle-CjuNFgk2.js",
+      "file": "assets/obstacle-4Hac8QKl.js",
       "rawBytes": 36937,
-      "gzipBytes": 14039,
+      "gzipBytes": 14040,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/editor.js",
-      "file": "assets/editor-B_s3K0E5.js",
+      "file": "assets/editor-GvAVk8yV.js",
       "rawBytes": 34925,
-      "gzipBytes": 11873,
+      "gzipBytes": 11872,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/balloon.js",
-      "file": "assets/balloon-DWS71NAC.js",
+      "file": "assets/balloon-svQbp7vf.js",
       "rawBytes": 32390,
-      "gzipBytes": 11996,
+      "gzipBytes": 11993,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/discovery.js",
-      "file": "assets/discovery-Bne8OnUg.js",
+      "file": "assets/discovery-Cf1FJbuB.js",
       "rawBytes": 31998,
-      "gzipBytes": 11177,
+      "gzipBytes": 11179,
       "initial": false,
       "dynamic": true
     },
@@ -457,15 +457,15 @@
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-UnzioIGr.js",
-      "rawBytes": 27070,
-      "gzipBytes": 9282,
+      "file": "assets/mekan-yasam-D7Omqu5V.js",
+      "rawBytes": 27990,
+      "gzipBytes": 9587,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/tag.js",
-      "file": "assets/tag-CETbi95v.js",
+      "file": "assets/tag-CLDWWzC5.js",
       "rawBytes": 25164,
       "gzipBytes": 9733,
       "initial": false,
@@ -473,7 +473,7 @@
     },
     {
       "source": "src/games/squid67.js",
-      "file": "assets/squid67-BJo3VtTu.js",
+      "file": "assets/squid67-HjYiWWNR.js",
       "rawBytes": 17273,
       "gzipBytes": 6786,
       "initial": false,
@@ -504,20 +504,20 @@
       "dynamic": true
     },
     {
+      "source": "src/systems/telefon.js",
+      "file": "assets/telefon-BXm4Mv4R.js",
+      "rawBytes": 12511,
+      "gzipBytes": 4349,
+      "initial": false,
+      "dynamic": true
+    },
+    {
       "source": "_cosmetics-_eUJ0BSo.js",
       "file": "assets/cosmetics-_eUJ0BSo.js",
       "rawBytes": 12455,
       "gzipBytes": 4630,
       "initial": false,
       "dynamic": false
-    },
-    {
-      "source": "src/systems/telefon.js",
-      "file": "assets/telefon-CL96UKzV.js",
-      "rawBytes": 11628,
-      "gzipBytes": 3983,
-      "initial": false,
-      "dynamic": true
     },
     {
       "source": "src/systems/social.js",
@@ -617,9 +617,9 @@
     },
     {
       "source": "src/core/skyway-round.js",
-      "file": "assets/skyway-round-CKLsBipq.js",
+      "file": "assets/skyway-round-BUV9hFJW.js",
       "rawBytes": 6745,
-      "gzipBytes": 2483,
+      "gzipBytes": 2481,
       "initial": false,
       "dynamic": true
     },
@@ -680,10 +680,10 @@
       "dynamic": true
     },
     {
-      "source": "_skyway-course-simulation-7G9DgkWD.js",
-      "file": "assets/skyway-course-simulation-7G9DgkWD.js",
+      "source": "_skyway-course-simulation-CJTtQDDN.js",
+      "file": "assets/skyway-course-simulation-CJTtQDDN.js",
       "rawBytes": 4521,
-      "gzipBytes": 1945,
+      "gzipBytes": 1944,
       "initial": false,
       "dynamic": false
     },
@@ -694,6 +694,14 @@
       "gzipBytes": 1760,
       "initial": false,
       "dynamic": true
+    },
+    {
+      "source": "_hava-durumu-DOwTpmvf.js",
+      "file": "assets/hava-durumu-DOwTpmvf.js",
+      "rawBytes": 3562,
+      "gzipBytes": 1832,
+      "initial": false,
+      "dynamic": false
     },
     {
       "source": "node_modules/three/examples/jsm/postprocessing/OutputPass.js",
@@ -736,14 +744,6 @@
       "dynamic": false
     },
     {
-      "source": "_hava-durumu-D5Asr3wm.js",
-      "file": "assets/hava-durumu-D5Asr3wm.js",
-      "rawBytes": 2093,
-      "gzipBytes": 1158,
-      "initial": false,
-      "dynamic": false
-    },
-    {
       "source": "src/world/friendsies.js",
       "file": "assets/friendsies-dMXKQBCA.js",
       "rawBytes": 1939,
@@ -768,10 +768,10 @@
       "dynamic": true
     },
     {
-      "source": "_bots-DXoYUarb.js",
-      "file": "assets/bots-DXoYUarb.js",
+      "source": "_bots-BiK6RvfP.js",
+      "file": "assets/bots-BiK6RvfP.js",
       "rawBytes": 805,
-      "gzipBytes": 521,
+      "gzipBytes": 520,
       "initial": false,
       "dynamic": false
     },
@@ -825,9 +825,9 @@
     },
     {
       "source": "src/world/hava-durumu.js",
-      "file": "assets/hava-durumu-DTLJyZMO.js",
-      "rawBytes": 70,
-      "gzipBytes": 80,
+      "file": "assets/hava-durumu-edvCei7q.js",
+      "rawBytes": 87,
+      "gzipBytes": 94,
       "initial": false,
       "dynamic": true
     }
@@ -874,10 +874,10 @@
       "dynamic": false
     },
     {
-      "source": "_bots-DXoYUarb.js",
-      "file": "assets/bots-DXoYUarb.js",
+      "source": "_bots-BiK6RvfP.js",
+      "file": "assets/bots-BiK6RvfP.js",
       "rawBytes": 805,
-      "gzipBytes": 521,
+      "gzipBytes": 520,
       "initial": false,
       "dynamic": false
     },
@@ -938,10 +938,10 @@
       "dynamic": false
     },
     {
-      "source": "_hava-durumu-D5Asr3wm.js",
-      "file": "assets/hava-durumu-D5Asr3wm.js",
-      "rawBytes": 2093,
-      "gzipBytes": 1158,
+      "source": "_hava-durumu-DOwTpmvf.js",
+      "file": "assets/hava-durumu-DOwTpmvf.js",
+      "rawBytes": 3562,
+      "gzipBytes": 1832,
       "initial": false,
       "dynamic": false
     },
@@ -986,10 +986,10 @@
       "dynamic": false
     },
     {
-      "source": "_player-BG92eET_.js",
-      "file": "assets/player-BG92eET_.js",
-      "rawBytes": 2880,
-      "gzipBytes": 1096,
+      "source": "_player-DJa0qJsT.js",
+      "file": "assets/player-DJa0qJsT.js",
+      "rawBytes": 2898,
+      "gzipBytes": 1102,
       "initial": true,
       "dynamic": false
     },
@@ -1026,10 +1026,10 @@
       "dynamic": false
     },
     {
-      "source": "_skyway-course-simulation-7G9DgkWD.js",
-      "file": "assets/skyway-course-simulation-7G9DgkWD.js",
+      "source": "_skyway-course-simulation-CJTtQDDN.js",
+      "file": "assets/skyway-course-simulation-CJTtQDDN.js",
       "rawBytes": 4521,
-      "gzipBytes": 1945,
+      "gzipBytes": 1944,
       "initial": false,
       "dynamic": false
     },
@@ -1059,7 +1059,7 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-DOET8CM2.js",
+      "file": "assets/index-BXE3MMwP.js",
       "rawBytes": 93508,
       "gzipBytes": 33157,
       "initial": true,
@@ -1123,17 +1123,17 @@
     },
     {
       "source": "src/core/skyway-round.js",
-      "file": "assets/skyway-round-CKLsBipq.js",
+      "file": "assets/skyway-round-BUV9hFJW.js",
       "rawBytes": 6745,
-      "gzipBytes": 2483,
+      "gzipBytes": 2481,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/balloon.js",
-      "file": "assets/balloon-DWS71NAC.js",
+      "file": "assets/balloon-svQbp7vf.js",
       "rawBytes": 32390,
-      "gzipBytes": 11996,
+      "gzipBytes": 11993,
       "initial": false,
       "dynamic": true
     },
@@ -1147,9 +1147,9 @@
     },
     {
       "source": "src/games/obstacle.js",
-      "file": "assets/obstacle-CjuNFgk2.js",
+      "file": "assets/obstacle-4Hac8QKl.js",
       "rawBytes": 36937,
-      "gzipBytes": 14039,
+      "gzipBytes": 14040,
       "initial": false,
       "dynamic": true
     },
@@ -1163,15 +1163,15 @@
     },
     {
       "source": "src/games/skate-race.js",
-      "file": "assets/skate-race-DhsYUgYZ.js",
+      "file": "assets/skate-race-CqyGQDSz.js",
       "rawBytes": 37506,
-      "gzipBytes": 14199,
+      "gzipBytes": 14201,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/games/squid67.js",
-      "file": "assets/squid67-BJo3VtTu.js",
+      "file": "assets/squid67-HjYiWWNR.js",
       "rawBytes": 17273,
       "gzipBytes": 6786,
       "initial": false,
@@ -1179,7 +1179,7 @@
     },
     {
       "source": "src/games/tag.js",
-      "file": "assets/tag-CETbi95v.js",
+      "file": "assets/tag-CLDWWzC5.js",
       "rawBytes": 25164,
       "gzipBytes": 9733,
       "initial": false,
@@ -1291,25 +1291,25 @@
     },
     {
       "source": "src/systems/telefon.js",
-      "file": "assets/telefon-CL96UKzV.js",
-      "rawBytes": 11628,
-      "gzipBytes": 3983,
+      "file": "assets/telefon-BXm4Mv4R.js",
+      "rawBytes": 12511,
+      "gzipBytes": 4349,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/discovery.js",
-      "file": "assets/discovery-Bne8OnUg.js",
+      "file": "assets/discovery-Cf1FJbuB.js",
       "rawBytes": 31998,
-      "gzipBytes": 11177,
+      "gzipBytes": 11179,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/ugc/editor.js",
-      "file": "assets/editor-B_s3K0E5.js",
+      "file": "assets/editor-GvAVk8yV.js",
       "rawBytes": 34925,
-      "gzipBytes": 11873,
+      "gzipBytes": 11872,
       "initial": false,
       "dynamic": true
     },
@@ -1331,17 +1331,17 @@
     },
     {
       "source": "src/world/hava-durumu.js",
-      "file": "assets/hava-durumu-DTLJyZMO.js",
-      "rawBytes": 70,
-      "gzipBytes": 80,
+      "file": "assets/hava-durumu-edvCei7q.js",
+      "rawBytes": 87,
+      "gzipBytes": 94,
       "initial": false,
       "dynamic": true
     },
     {
       "source": "src/world/mekan-yasam.js",
-      "file": "assets/mekan-yasam-UnzioIGr.js",
-      "rawBytes": 27070,
-      "gzipBytes": 9282,
+      "file": "assets/mekan-yasam-D7Omqu5V.js",
+      "rawBytes": 27990,
+      "gzipBytes": 9587,
       "initial": false,
       "dynamic": true
     },

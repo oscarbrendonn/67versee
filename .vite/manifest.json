@@ -32,11 +32,11 @@
       "_level-widgets-B-YTtERP.js"
     ]
   },
-  "_bots-DXoYUarb.js": {
-    "file": "assets/bots-DXoYUarb.js",
+  "_bots-BiK6RvfP.js": {
+    "file": "assets/bots-BiK6RvfP.js",
     "name": "bots",
     "imports": [
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_friendsie-bot-DgQAg3Iw.js"
     ]
   },
@@ -76,8 +76,8 @@
     "file": "assets/game-result-D6Ptxhig.js",
     "name": "game-result"
   },
-  "_hava-durumu-D5Asr3wm.js": {
-    "file": "assets/hava-durumu-D5Asr3wm.js",
+  "_hava-durumu-DOwTpmvf.js": {
+    "file": "assets/hava-durumu-DOwTpmvf.js",
     "name": "hava-durumu",
     "imports": [
       "_city-funfair-BXyWVcDk.js",
@@ -110,8 +110,8 @@
     "file": "assets/party-session-BNjgA_WJ.js",
     "name": "party-session"
   },
-  "_player-BG92eET_.js": {
-    "file": "assets/player-BG92eET_.js",
+  "_player-DJa0qJsT.js": {
+    "file": "assets/player-DJa0qJsT.js",
     "name": "player"
   },
   "_preload-helper-C_S_EEzL.js": {
@@ -134,11 +134,11 @@
     "file": "assets/sky-CLzF4ZUM.js",
     "name": "sky"
   },
-  "_skyway-course-simulation-7G9DgkWD.js": {
-    "file": "assets/skyway-course-simulation-7G9DgkWD.js",
+  "_skyway-course-simulation-CJTtQDDN.js": {
+    "file": "assets/skyway-course-simulation-CJTtQDDN.js",
     "name": "skyway-course-simulation",
     "imports": [
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_level-widgets-B-YTtERP.js"
     ]
   },
@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-DOET8CM2.js",
+    "file": "assets/index-BXE3MMwP.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -175,7 +175,7 @@
       "_world-items-Co0SThNS.js",
       "_mekanlar-CaWZuHBp.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js"
     ],
@@ -202,7 +202,7 @@
       "src/ugc/discovery.js",
       "src/systems/audio.js",
       "src/world/mekan-yasam.js",
-      "_hava-durumu-D5Asr3wm.js",
+      "_hava-durumu-DOwTpmvf.js",
       "src/systems/telefon.js",
       "node_modules/three/examples/jsm/postprocessing/EffectComposer.js",
       "node_modules/three/examples/jsm/postprocessing/RenderPass.js",
@@ -281,16 +281,16 @@
     "isDynamicEntry": true
   },
   "src/core/skyway-round.js": {
-    "file": "assets/skyway-round-CKLsBipq.js",
+    "file": "assets/skyway-round-BUV9hFJW.js",
     "name": "skyway-round",
     "src": "src/core/skyway-round.js",
     "isDynamicEntry": true,
     "imports": [
-      "_skyway-course-simulation-7G9DgkWD.js"
+      "_skyway-course-simulation-CJTtQDDN.js"
     ]
   },
   "src/games/balloon.js": {
-    "file": "assets/balloon-DWS71NAC.js",
+    "file": "assets/balloon-svQbp7vf.js",
     "name": "balloon",
     "src": "src/games/balloon.js",
     "isDynamicEntry": true,
@@ -298,11 +298,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot-DgQAg3Iw.js",
       "_level-widgets-B-YTtERP.js",
-      "_bots-DXoYUarb.js",
+      "_bots-BiK6RvfP.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
@@ -323,7 +323,7 @@
     "src": "src/games/obstacle.css"
   },
   "src/games/obstacle.js": {
-    "file": "assets/obstacle-CjuNFgk2.js",
+    "file": "assets/obstacle-4Hac8QKl.js",
     "name": "obstacle",
     "src": "src/games/obstacle.js",
     "isDynamicEntry": true,
@@ -332,11 +332,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_level-widgets-B-YTtERP.js",
-      "_skyway-course-simulation-7G9DgkWD.js",
+      "_skyway-course-simulation-CJTtQDDN.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js",
       "_RoundedBoxGeometry-BeV-kS-u.js",
@@ -359,7 +359,7 @@
     ]
   },
   "src/games/skate-race.js": {
-    "file": "assets/skate-race-DhsYUgYZ.js",
+    "file": "assets/skate-race-CqyGQDSz.js",
     "name": "skate-race",
     "src": "src/games/skate-race.js",
     "isDynamicEntry": true,
@@ -368,11 +368,11 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_level-widgets-B-YTtERP.js",
-      "_skyway-course-simulation-7G9DgkWD.js",
+      "_skyway-course-simulation-CJTtQDDN.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js",
       "_RoundedBoxGeometry-BeV-kS-u.js",
@@ -383,23 +383,23 @@
     ]
   },
   "src/games/squid67.js": {
-    "file": "assets/squid67-BJo3VtTu.js",
+    "file": "assets/squid67-HjYiWWNR.js",
     "name": "squid67",
     "src": "src/games/squid67.js",
     "isDynamicEntry": true,
     "imports": [
       "_sky-CLzF4ZUM.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot-DgQAg3Iw.js",
-      "_bots-DXoYUarb.js",
+      "_bots-BiK6RvfP.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
   },
   "src/games/tag.js": {
-    "file": "assets/tag-CETbi95v.js",
+    "file": "assets/tag-CLDWWzC5.js",
     "name": "tag",
     "src": "src/games/tag.js",
     "isDynamicEntry": true,
@@ -407,10 +407,10 @@
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
       "_chase-camera-D0h6mxoJ.js",
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot-DgQAg3Iw.js",
-      "_bots-DXoYUarb.js",
+      "_bots-BiK6RvfP.js",
       "_party-session-BNjgA_WJ.js",
       "_game-result-D6Ptxhig.js"
     ]
@@ -541,22 +541,22 @@
     ]
   },
   "src/systems/telefon.js": {
-    "file": "assets/telefon-CL96UKzV.js",
+    "file": "assets/telefon-BXm4Mv4R.js",
     "name": "telefon",
     "src": "src/systems/telefon.js",
     "isDynamicEntry": true,
     "imports": [
       "_registry-CJLgdOlc.js",
-      "_hava-durumu-D5Asr3wm.js"
+      "_hava-durumu-DOwTpmvf.js"
     ]
   },
   "src/ugc/discovery.js": {
-    "file": "assets/discovery-Bne8OnUg.js",
+    "file": "assets/discovery-Cf1FJbuB.js",
     "name": "discovery",
     "src": "src/ugc/discovery.js",
     "isDynamicEntry": true,
     "imports": [
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_preload-helper-C_S_EEzL.js",
       "_local-save-schema-C0-juTIS.js",
@@ -568,12 +568,12 @@
     ]
   },
   "src/ugc/editor.js": {
-    "file": "assets/editor-B_s3K0E5.js",
+    "file": "assets/editor-GvAVk8yV.js",
     "name": "editor",
     "src": "src/ugc/editor.js",
     "isDynamicEntry": true,
     "imports": [
-      "_player-BG92eET_.js",
+      "_player-DJa0qJsT.js",
       "_registry-CJLgdOlc.js",
       "_level-widgets-B-YTtERP.js",
       "_local-save-schema-C0-juTIS.js",
@@ -604,16 +604,16 @@
     ]
   },
   "src/world/hava-durumu.js": {
-    "file": "assets/hava-durumu-DTLJyZMO.js",
+    "file": "assets/hava-durumu-edvCei7q.js",
     "name": "hava-durumu",
     "src": "src/world/hava-durumu.js",
     "isDynamicEntry": true,
     "imports": [
-      "_hava-durumu-D5Asr3wm.js"
+      "_hava-durumu-DOwTpmvf.js"
     ]
   },
   "src/world/mekan-yasam.js": {
-    "file": "assets/mekan-yasam-UnzioIGr.js",
+    "file": "assets/mekan-yasam-D7Omqu5V.js",
     "name": "mekan-yasam",
     "src": "src/world/mekan-yasam.js",
     "isDynamicEntry": true,
