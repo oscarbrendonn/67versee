@@ -40,8 +40,8 @@
       "_friendsie-bot--BINaBoa.js"
     ]
   },
-  "_chase-camera-C5zmafxB.js": {
-    "file": "assets/chase-camera-C5zmafxB.js",
+  "_chase-camera-CpcGEkoQ.js": {
+    "file": "assets/chase-camera-CpcGEkoQ.js",
     "name": "chase-camera"
   },
   "_city-funfair-BXyWVcDk.js": {
@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-Cy04CNEp.js",
+    "file": "assets/index-CMbIi9KH.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -174,7 +174,7 @@
       "_GLTFLoader-uES3ShkA.js",
       "_world-items-Co0SThNS.js",
       "_mekanlar-CaWZuHBp.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_preload-helper-C_S_EEzL.js",
       "_registry-CJLgdOlc.js"
@@ -304,14 +304,14 @@
     ]
   },
   "src/games/balloon.js": {
-    "file": "assets/balloon-ckasC3jr.js",
+    "file": "assets/balloon-CsfOOmmt.js",
     "name": "balloon",
     "src": "src/games/balloon.js",
     "isDynamicEntry": true,
     "imports": [
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot--BINaBoa.js",
@@ -337,7 +337,7 @@
     "src": "src/games/obstacle.css"
   },
   "src/games/obstacle.js": {
-    "file": "assets/obstacle-E-xIwk3J.js",
+    "file": "assets/obstacle-3X644dyB.js",
     "name": "obstacle",
     "src": "src/games/obstacle.js",
     "isDynamicEntry": true,
@@ -345,7 +345,7 @@
       "_city-funfair-BXyWVcDk.js",
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_preload-helper-C_S_EEzL.js",
       "_registry-CJLgdOlc.js",
@@ -373,7 +373,7 @@
     ]
   },
   "src/games/skate-race.js": {
-    "file": "assets/skate-race-C5NppDTz.js",
+    "file": "assets/skate-race-B68Zkzhq.js",
     "name": "skate-race",
     "src": "src/games/skate-race.js",
     "isDynamicEntry": true,
@@ -381,7 +381,7 @@
       "_city-funfair-BXyWVcDk.js",
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_preload-helper-C_S_EEzL.js",
       "_registry-CJLgdOlc.js",
@@ -397,13 +397,13 @@
     ]
   },
   "src/games/squid67.js": {
-    "file": "assets/squid67-BkuXKn-Z.js",
+    "file": "assets/squid67-3sbvRh6k.js",
     "name": "squid67",
     "src": "src/games/squid67.js",
     "isDynamicEntry": true,
     "imports": [
       "_sky-CLzF4ZUM.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot--BINaBoa.js",
@@ -413,14 +413,14 @@
     ]
   },
   "src/games/tag.js": {
-    "file": "assets/tag-CkEA_kbp.js",
+    "file": "assets/tag-BoV3Q4xU.js",
     "name": "tag",
     "src": "src/games/tag.js",
     "isDynamicEntry": true,
     "imports": [
       "_sky-CLzF4ZUM.js",
       "_world-items-Co0SThNS.js",
-      "_chase-camera-C5zmafxB.js",
+      "_chase-camera-CpcGEkoQ.js",
       "_player-DenW0OrT.js",
       "_registry-CJLgdOlc.js",
       "_friendsie-bot--BINaBoa.js",
