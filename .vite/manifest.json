@@ -52,8 +52,8 @@
     "file": "assets/city-plan-oge-BeGUXmhr.js",
     "name": "city-plan-oge"
   },
-  "_city-plan-yapi-BE20XLZB.js": {
-    "file": "assets/city-plan-yapi-BE20XLZB.js",
+  "_city-plan-yapi-CAtq0ePi.js": {
+    "file": "assets/city-plan-yapi-CAtq0ePi.js",
     "name": "city-plan-yapi"
   },
   "_cosmetics-_eUJ0BSo.js": {
@@ -163,7 +163,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-CG2iGyrf.js",
+    "file": "assets/index-CyRQslJt.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -596,7 +596,7 @@
     ]
   },
   "src/world/city-districts.js": {
-    "file": "assets/city-districts-D28O-QgC.js",
+    "file": "assets/city-districts-Drg0Y8Mh.js",
     "name": "city-districts",
     "src": "src/world/city-districts.js",
     "isDynamicEntry": true,
@@ -604,7 +604,7 @@
       "_city-funfair-BXyWVcDk.js",
       "_GLTFLoader-uES3ShkA.js",
       "_mekanlar-CaWZuHBp.js",
-      "_city-plan-yapi-BE20XLZB.js",
+      "_city-plan-yapi-CAtq0ePi.js",
       "_city-plan-oge-BeGUXmhr.js"
     ]
   },

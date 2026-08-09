@@ -13,7 +13,7 @@
       "party-session"
     ]
   },
-  "generatedAt": "2026-08-09T00:13:45.960Z",
+  "generatedAt": "2026-08-09T01:19:29.653Z",
   "initial": {
     "files": [
       {
@@ -98,22 +98,22 @@
       },
       {
         "source": "index.html",
-        "file": "assets/index-CG2iGyrf.js",
-        "rawBytes": 96476,
-        "gzipBytes": 34313,
+        "file": "assets/index-CyRQslJt.js",
+        "rawBytes": 96493,
+        "gzipBytes": 34321,
         "initial": true,
         "dynamic": false
       }
     ],
-    "rawBytes": 928214,
-    "gzipBytes": 254035
+    "rawBytes": 928231,
+    "gzipBytes": 254043
   },
   "asyncEntries": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-D28O-QgC.js",
-      "rawBytes": 48745,
-      "gzipBytes": 17621,
+      "file": "assets/city-districts-Drg0Y8Mh.js",
+      "rawBytes": 48673,
+      "gzipBytes": 17596,
       "initial": false,
       "dynamic": true
     },
@@ -409,9 +409,9 @@
   "deferredChunks": [
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-D28O-QgC.js",
-      "rawBytes": 48745,
-      "gzipBytes": 17621,
+      "file": "assets/city-districts-Drg0Y8Mh.js",
+      "rawBytes": 48673,
+      "gzipBytes": 17596,
       "initial": false,
       "dynamic": true
     },
@@ -632,10 +632,10 @@
       "dynamic": true
     },
     {
-      "source": "_city-plan-yapi-BE20XLZB.js",
-      "file": "assets/city-plan-yapi-BE20XLZB.js",
-      "rawBytes": 6686,
-      "gzipBytes": 2652,
+      "source": "_city-plan-yapi-CAtq0ePi.js",
+      "file": "assets/city-plan-yapi-CAtq0ePi.js",
+      "rawBytes": 6677,
+      "gzipBytes": 2646,
       "initial": false,
       "dynamic": false
     },
@@ -922,10 +922,10 @@
       "dynamic": false
     },
     {
-      "source": "_city-plan-yapi-BE20XLZB.js",
-      "file": "assets/city-plan-yapi-BE20XLZB.js",
-      "rawBytes": 6686,
-      "gzipBytes": 2652,
+      "source": "_city-plan-yapi-CAtq0ePi.js",
+      "file": "assets/city-plan-yapi-CAtq0ePi.js",
+      "rawBytes": 6677,
+      "gzipBytes": 2646,
       "initial": false,
       "dynamic": false
     },
@@ -1075,9 +1075,9 @@
     },
     {
       "source": "index.html",
-      "file": "assets/index-CG2iGyrf.js",
-      "rawBytes": 96476,
-      "gzipBytes": 34313,
+      "file": "assets/index-CyRQslJt.js",
+      "rawBytes": 96493,
+      "gzipBytes": 34321,
       "initial": true,
       "dynamic": false
     },
@@ -1339,9 +1339,9 @@
     },
     {
       "source": "src/world/city-districts.js",
-      "file": "assets/city-districts-D28O-QgC.js",
-      "rawBytes": 48745,
-      "gzipBytes": 17621,
+      "file": "assets/city-districts-Drg0Y8Mh.js",
+      "rawBytes": 48673,
+      "gzipBytes": 17596,
       "initial": false,
       "dynamic": true
     },
